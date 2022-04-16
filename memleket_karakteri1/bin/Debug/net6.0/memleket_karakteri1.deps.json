@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "memleket_karakteri1/1.0.0": {
+        "runtime": {
+          "memleket_karakteri1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "memleket_karakteri1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

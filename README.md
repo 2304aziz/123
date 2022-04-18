@@ -3,4 +3,5 @@ Vatanı Türkiye olan kişilerin doğdukları şehirlere göre karakter olasıl�
 
 <h2> Ekran Görüntüsü</h2>
 
-![](türkiye.gif)
+![](a.gif.gif)
+# 123

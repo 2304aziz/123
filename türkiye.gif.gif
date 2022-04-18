@@ -1,0 +1,2839 @@
+<html>
+<head> 
+<TITLE>Sizin Siteniz...Sitenize Hoşgeldiniz...</TITLE>
+<base target="_blank">
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+<META HTTP-EQUIV="content-language" content="TR">
+<META HTTP-EQUIV="Copyright" CONTENT="Copyright © 2001-2017 Yıldırım ALKAN...Tüm Hakları Saklıdır...">
+<meta name="verify-v1" content="1/+AFPRqlmdc8OMKbhIgMYyqw/g2JxjPAmC3np8f8rw=" />
+<META NAME="Robots" content="All">
+<META NAME="robots" CONTENT="FOLLOW,INDEX">
+<META NAME="distribution" CONTENT="Global">
+<META NAME="RATING" CONTENT="GENERAL">
+<META NAME="author" CONTENT="YILDIRIM ALKAN">
+<meta http-equiv="Site-Exit" content="revealTrans(Duration=1.0,Transition=23)">
+<meta http-equiv="Page-Enter" content="revealTrans(Duration=23.0,Transition=23)">
+<meta http-equiv="Site-Enter" content="revealTrans(Duration=1.0,Transition=23)">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="cache-control" CONTENT="no-cache">
+<META NAME="DESCRIPTION" CONTENT="Sizin Siteniz...Sitenize Hoşgeldiniz...”>
+<meta name="keywords" LANG="tr" CONTENT="yildirim alkan yildirimalkan yıldırım yıldırımalkan">
+</head>
+
+<center>
+<STYLE type=text/css>
+A {
+	FONT: bold 12px Arial; COLOR: #0000ff; TEXT-DECORATION: none
+}
+A.main {
+	FONT: bold 12px Arial; COLOR: #000099; TEXT-INDENT: 12px; TEXT-DECORATION: none
+}
+TD.main {
+	FONT: bold 12px Arial; COLOR: #000099; TEXT-INDENT: 12px; TEXT-DECORATION: none
+}
+TD.mainhi {
+	FONT: bold 12px Arial; COLOR: #990000; TEXT-INDENT: 12px; BACKGROUND-COLOR: #ffff99; TEXT-DECORATION: none
+}
+A.scrhi {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; LINE-HEIGHT: normal; FONbatı
+T-STYLE: normal; BACKGROUND-COLOR: #ffff00; FONT-VARIANT: normal
+}
+A.scr {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+A.topstr {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+A.topnews {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #990000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal; TEXT-DECORATION: none
+}
+A.feat {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; LINE-HEIGHT: 14px; FONT-STYLE: normal; FONT-VARIANT: normal; TEXT-DECORATION: underline
+}
+A.mine {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #990000; LINE-HEIGHT: 14px; FONT-STYLE: normal; FONT-VARIANT: normal; TEXT-DECORATION: underline
+}
+.title {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; FONT-STYLE: normal; FONT-FAMILY: Verdana; FONT-VARIANT: normal; TEXT-DECORATION: none
+}
+A.stock {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #006666; LINE-HEIGHT: 10pt; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+A:hover {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+TD:hover {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+A.scroll {
+	TEXT-INDENT: 12px
+}
+.sc1 {
+	MARGIN-LEFT: 58px
+}
+FORM {
+	MARGIN-TOP: 10px
+}
+.button {
+	FONT: 12px bold Arial; COLOR: #ff9933; BACKGROUND-COLOR: #00ccff TEXT-DECORATION: none
+}
+A.xamarinlink {
+	FONT: 14px bold Arial; COLOR: #cc99ff; BACKGROUND-COLOR: #6699cc; TEXT-DECORATION: none
+}
+</STYLE>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80479349-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<html>
+<style>
+
+.drapeeffect{
+  background: #0099FF; /* button background */
+  color: white; /* button text color */
+  outline: none;
+  border-width: 0;
+  padding: 8px 10px; 
+  font-weight: bold;
+  font-size: 12.2795px; /* font size */
+  text-transform: none;
+  line-height: 1,5;
+  position: relative;
+	display: inline-block;
+  cursor: pointer;
+	text-decoration: none; /* remove underline if using A instead of BUTTON tag */
+  overflow: hidden;
+}
+
+.drapeeffect:after{
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 0 0 30% 30%/50%;
+  background: rgba(255,255,255,.2); /* white background with high transparency */
+  left: 0;
+  top: -100%;
+  transition: all .5s;
+}
+
+.drapeeffect:hover:after{
+  top: 0;
+  border-radius: 0;
+  transition: top .5s, border-radius .5s .5s;
+}
+
+/* //// Drape from Center effect //// */
+
+.drapecenter:after{
+  border-radius: 50%;
+}
+
+/* //// Drape from Left effect //// */
+
+.drapeleft:after{
+  top: 0;
+  left: -100%;
+  border-radius: 0 20% 20% 0/80%;
+}
+
+.drapeleft:hover:after{
+  left: 0;
+  transition: left .5s, border-radius .1s .5s;
+}
+
+/* //// Drape from Right effect //// */
+
+.draperight:after{
+  top: 0;
+  left: 100%;
+  border-radius: 20% 0 0 20%/80%;
+}
+
+.draperight:hover:after{
+  left: 0;
+  transition: left .5s, border-radius .1s .5s;
+}
+</style>
+
+<a href=index.html target=_blank><button class="drapeeffect">Ana Sayfa</button><a href=index.html target=_blank></A>
+<a href=hakkimizda.html target=_blank><button class="drapeeffect draperight">Hakkımızda</button></a>
+<a href=iletisimformu.html><button class="drapeeffect draperight">İletişim</button></a>
+<a href=https://www.youtube.com/channel/UCwabVTKBJru-0w3WV7t_x-g target=_blank><button class="drapeeffect drapecenter">Youtube Abone Ol</button></a>
+<a href=https://www.facebook.com/TurkuluYureklerYY/ target=_blank><button class="drapeeffect drapeleft">Facebook Beğen</button></a>
+<a href=https://twitter.com/TC_Turku_Bey target=_blank><button class="drapeeffect">Twitter Takip Et</button></a>
+<a href=https://www.turkiye.gov.tr/ target=_blank><button class="drapeeffect draperight">E - Türkiye</button></a>
+<a href=https://e-okul.meb.gov.tr/ target=_blank><button class="drapeeffect draperight">E - Okul</button></a>
+<a href=//postakodu.ptt.gov.tr/ target=_blank><button class="drapeeffect draperight">Posta Kodları</button></a>
+<a href=//www.ttrehber.turktelekom.com.tr/trk-web/alankodlari.html target=_blank><button class="drapeeffect draperight">Telefon Kodları</button></a>
+<a href=//www.bddk.org.tr/WebSitesi/default.aspx target=_blank><button class="drapeeffect draperight">B D D K</button></a>
+<a href=//www.spk.gov.tr/ target=_blank><button class="drapeeffect draperight">S P K</button></a>
+<a href=//www.altinborsasi.gen.tr/ target=_blank><button class="drapeeffect draperight">Altın  Borsası</button></a>
+<a href=//www.doviz.com/ target=_blank><button class="drapeeffect draperight">Döviz</button></a>
+<a href=sitemap.html target=_blank><button class="drapeeffect draperight">Site Haritası</button></a>
+</html>
+
+<script LANGUAGE="JavaScript">
+function CC_noErrors() {
+return true;
+}
+window.onerror = CC_noErrors;
+</script>
+
+<SCRIPT>var sRepeat=null;function doScrollerIE(dir, src, amount) {	if (amount==null) {amount=10}	if (dir=="up") 
+{document.all[src].scrollTop-=amount}	else {document.all[src].scrollTop+=amount}	if (sRepeat==null) 
+{sRepeat = setInterval("doScrollerIE('" + dir + "','" + src + "'," + amount + ")",100)}	
+return false}window.document.onmouseout = new Function("clearInterval(sRepeat);sRepeat=null");
+window.document.ondragstart = new Function("return false");function msover()
+{{event.srcElement.style.color="000099";event.srcElement.style.backgroundColor="#99ccff";event.srcElement.style.cursor = 
+"hand";}}function msout(){{event.srcElement.style.color="";
+event.srcElement.style.backgroundColor="";event.srcElement.style.cursor = "auto";}}function markover()
+{{event.srcElement.style.color="990000";event.srcElement.style.cursor = "hand";}}function markout()
+{{event.srcElement.style.color="000000";event.srcElement.style.cursor = "auto";}}function toggle( targetId )
+{{target = document.all( targetId );if (target.style.display == "none"){target.style.display = "";
+} else {target.style.display = "none";}}}</SCRIPT>
+<body BGCOLOR="white" link="#CC0033" vlink="#333399" alink="red" text="#0000FF">
+<HEAD> 
+<STYLE fprolloverstyle>A:hover {font-size:10pt; color: red; font-family: Arial} ></STYLE>
+</head>
+<body align="top" valign="center" text="#0000FF"></body>
+<TABLE cellSpacing=0 cellPadding=0 border="0" BGCOLOR="white" STYLE="border-collapse: collapse" BORDERCOLOR="darkblue" 
+BORDERCOLORLIGHT="#00ccff" BORDERCOLORDARK="#0000cf" WIDTH="250" HEIGHT="1"><base target="_blank">
+<TBODY>
+<TR>
+<TD Valign=top width=250 height=360 bgColor=white rowSpan=3>
+<TABLE  cellSpacing=0 cellPadding=0 width=1 border=0 bgcolor="white">
+<TBODY>
+<TR>
+<TD width=250 height=360>
+<TABLE cellSpacing=0 borderColorDark="#99CCFF" cellPadding=0 width=250 height=360 BgColor="#000066" borderColorLight="#3366CC" background="logo.png" border="0"
+STYLE="border-collapse: collapse" BORDERCOLOR="white">
+<TBODY>
+<TR><TD height=20 width="250"><A href="//ataturk-resimleri.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atatürk Resimleri</A></TD></TR>
+<TR><TD height=20 width="250"><A href="//www.manzara.gen.tr/sehir-resimleri/izmir-resimleri">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İzmir Resimleri</A></TD></TR>
+<TR><TD height=20 width="250"><A href="//www.eczanebul.net">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nöbetçi Eczaneler</A></TD></TR>
+<TR><TD height=20 width="250"><A href="//www.maps.google.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uydudan Harita</A></TD></TR>
+<TR><TD height=20 width="250"><A href="https://tckimlik.nvi.gov.tr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T.C Kimlik Sorgula</A></TD></TR>
+<TR><TD height=20 width="250"><A href="https://intvd.gib.gov.tr/internetvd/template.jsp?page=IVD_VKNO">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vergi Kimlik No</A></TD></TR>
+<TR><TD height=20 width="250"><A href="https://www.turkiye.gov.tr/imei-sorgulama">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İmei Sorgula</A></TD></TR>
+<TR><TD height=20 width="250"><A href="https://intvd.gib.gov.tr/internetvd/template.jsp?page=IVD_MTV_SORGU">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MTV Sorgula</A></TD></TR>
+<TR><TD height=20 width="250"><A href="https://intvd.gib.gov.tr/internetvd/template.jsp?page=IVD_MBBS_SORGU_LOGIN_AC">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vergi Borcu-Trafik Cezası Sorgula</A></TD></TR>
+<TR><TD height=20 width="250"><A href="//www.mpi.gov.tr/sonuclar/_cs_piyango.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Milli Piyango Çekiliş Sonuçları</A></TD></TR>
+<TR><TD height=20 width="250"><A href="//www.mpi.gov.tr/sonuclar/_cs_superloto.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Süper Loto Çekiliş Sonucları</A></TD></TR>
+<TR><TD height=20 width="250"><A href="//www.mpi.gov.tr/sonuclar/_cs_sayisal.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sayısal Loto Çekiliş Sonucları</A></TD></TR>
+<TR><TD height=20 width="250"><A href="//www.mpi.gov.tr/sonuclar/_cs_sanstopu.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Şans Topu Çekiliş Sonucları</A></TD></TR>
+<TR><TD height=20 width="250"><A href="//www.mpi.gov.tr/sonuclar/_cs_onnumara.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On Numara Çekiliş Sonucları</A></TD></TR>
+<TR><TD height=20 width="250"><A href="//www.tjk.org/TR/YarisSever/Info/Page/GunlukYarisSonuclari#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At Yarışları Sonuçları</A></TD></tr>
+<TR><TD height=20 width="250"><A href="https://www.nesine.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesine</A></TD></TR>
+<TR><TD height=20 width="250"><A href="//www.iddaa.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İddaa</A></TD></TR>
+
+<TR>
+<TD ALIGN="center" Valign=middle bordercolorlight="#0099FF" bordercolordark="#000080" width=250 height=200" 
+    bordercolor="#000080" style="border-left-style: solid; border-left-width:2; border-right-style: solid; border-right-width:2; 
+    border-top-style: solid; border-top-width:2; border-bottom-style: solid; border-bottom-width:2; padding:2">
+<iframe frameborder="0" scrolling="yes" marginwidth="0" marginheight="0" src="//www.gercekgundem.com/wp-content/themes/theHaberV3/dosyalar/siteneekle/sitene-ekle-manset2.php" width="250" height="200"></iframe>
+</td>
+</TR>
+	   
+<tr>
+<TD align=center width=250 height=75 bgcolor=white  border=2 bordercolor="#000080" bordercolorlight="#0099FF" bordercolordark="#000080" style="border-left-style: solid; border-left-width: 2; border-right-style: solid; border-right-width: 2; 
+    border-top-style: solid; border-top-width:2; border-bottom-style: solid; border-bottom-width:2; padding:2">
+<script src="https://apis.google.com/js/platform.js"></script>
+<div class="g-ytsubscribe" data-channelid="UCwabVTKBJru-0w3WV7t_x-g" data-layout="full" data-count="default"></div>
+</td>
+</tr>
+				   
+<TR>
+<TD onmouseover="this.style.backgroundColor  = '990000';" onmouseout="this.style.backgroundColor = '000099';" bgColor=#000099 width="200" height=15>
+    <A class=scroll onmouseover="return doScrollerIE('up','s1',8)" onmouseout=clearInterval(sRepeat) href="index.html">
+    <IMG width=250 height=15 src="navup.gif" border="0"></A></TD></TR>
+    <TR>
+    <TD bgColor=#99ccff width=200 height=225>
+    <DIV class=sc1 id=s1 style="BACKGROUND: #99ccff; OVERFLOW: hidden; width:200; height:225; font-face:arial; font-size=1; font-color=blue">
+	<A class=scr href="//www.koeri.boun.edu.tr/scripts/lst9.asp">Son Depremler</A><br>
+	<A class=scr href="//www.careerjet.com.tr/">İş Arama Motoru</A><br>
+	<A class=scr href="//www.tdk.org.tr/">Türk Dil Kurumu</A><br>
+	<A class=scr href="//www.atam.gov.tr/">Atatürkümüz</A><br>
+	<A class=scr href="//www.kimkimdir.net.tr/">Kim Kimdir</A><br>
+	<A class=scr href="//www.antoloji.com/">Antoloji.com</A><br>
+	<A class=scr href="//www.turkiyekanbankasi.com/">Kan Bankası</A><br>
+	<A class=scr href="//www.pratiksozluk.com/">Pratik Sözlük</A><br>
+	<A class=scr href="//www.kahvemolasi.com/">Kahve Molası</A><br>
+	<A class=scr href="//www.antoloji.com/nazim-hikmet-ran/">Nazım Hikmet</A><br>
+	<A class=scr href="https://surucurandevu.egm.gov.tr/">Ehliyet Değiştirme</A><br>
+	<A class=scr href="//www.obezite.gen.tr/">Obezite Türkiye</A><br>
+	<A class=scr href="//www.fikra.gen.tr/">Fıkra Merkezi</A><br>
+	<A class=scr href="//www.basarmevzuat.com/">Başar Mevzuat</A><br>
+	<A class=scr href="//www.sikayetvar.com/">üketici Şikayet</A><br>
+	<A class=scr href="//www.hepsiburada.com/">Hepsi Burada</A><br>
+	<A class=scr href="//www.superonline.com/">Süperonline</A><br>
+	<A class=scr href="//www.sirketce.com/">Şirketçe</A><br>
+	<A class=scr href="//www.arabul.com/">Arabul</A><br>
+	<A class=scr href="//www.tarihbilimi.org/index.html">Tarih Bilimi</A><br>
+	<A class=scr href="//www.queendom.com/">Çeşitli Testler</A><br>
+	<A class=scr href="//www.handspeak.com/">El İşaretleri</A><br>
+	<A class=scr href="//www.biography.com/">Biyografiler</A><br>
+	<A class=scr href="//www.arabam.com/">İkinci El Oto</A><br>
+	<A class=scr href="//www.afiyetolsun.net/">Yemek Tarifleri</A><br>
+	<A class=scr href="//www.kitapstore.com/">Kitap Okuyalım</A><br>
+	<A class=scr href="//www.gutenberg.org/">Elektronik Kitap</A><br>
+	<A class=scr href="//www.sahafium.com/">Eski Kitaplar</A><br>
+	<A class=scr href="//whatis.techtarget.com/">Bilgisayar Deyim</A><br>
+	<A class=scr href="//housecall.antivirus.com/">Online Virüs</A><br>
+	<A class=scr href="//www.dentrium.com/">Diş Sağlığı</A><br>
+	<A class=scr href="//www.all-hotels.com/">Dünya Otelleri</A><br>
+	<A class=scr href="//www.abchukuk.com/">Yasal Mevzuat</A><br>
+	<A class=scr href="//www.idealhukuk.com/">Tüm Kanunlar</A><br>
+	<A class=scr href="//www.cs.washington.edu/homes/dougz/date">Takvim ve Tarih</A><br>
+	<A class=scr href="//www.worldtimezone.com/datetime.htm">Gece ve Gündüz</A><br>
+	<A class=scr href="//plasma.nationalgeographic.com/mapmachine/">Dünya Atlası</A><br>
+	<A class=scr href="//www.fourmilab.to/cgi-bin/uncgi/Earth/action?opt=-s">Uydudan Dünyamız</A><br>
+	<A class=scr href="//www.internetrehberi.com/OlcuDegisimTablosu.htm">Ölçü Değişimi</A><br>
+	<A class=scr href="//www.kabalarians.com/index.htm">İsimler Anlamlar</A><br>
+	<A class=scr href="//alomarangoz.com/">Alo Marangoz</A><br>
+	<A class=scr href="//www.kircicekleri.com/">Kır Çiçekleri</A><br>
+	<A class=scr href="//www.cardesignnews.com/">Otomobil Design</A><br>
+	<A class=scr href="//www.siemens.com.tr/">Siemens</A><br>
+	<A class=scr href="//travelocity.com/">Gezi</A><br>
+	<A class=scr href="//expedia.com/">Expedia</A><br>
+	<A class=scr href="//www.altinorumcek.com/">Altın Örümcek</A><br>
+	<A class=scr href="//www.samsung.com/">Samsung</A><br>
+	<A class=scr href="//www.beyazperde.com/">Sinema Rehberi</A><br>
+	<A class=scr href="//www.autohaber.com/">Oto Haber</A><br>
+	<A class=scr href="//www.azizistanbul.com/">Aziz İstanbul</A><br>
+	<A class=scr href="//www.flashbuttons.com/">Flash Buton</A><br>
+	<A class=scr href="//www.turkbasket.com/">Türk Basket</A><br>
+	<A class=scr href="//www.dentalgazete.com/">Dental Gazete</A><br>
+	<A class=scr href="//www.hilekar.com/">Hilekar</A><br>
+	<A class=scr href="//www.turkdunya.de">Türkdünya</A><br>
+	<A class=scr href="//www.maxionline.net">Maxionline</A><br>
+	<A class=scr href="//www.fazlamesai.net">Fazla Mesai</A><br>
+	<A class=scr href="//tr.wikipedia.org">Wikipedia</A><br>
+	<A class=scr href="//www.izto.org.tr">İzto</A><br>
+	<A class=scr href="//www.dugunum.com">Düğünüm</A><br>
+	<A class=scr href="//www.webasis.com">Webasis</A><br>
+	<A class=scr href="//www.dexigner.com">Dexigner</A><br>
+	<A class=scr href="//www.farmaportal.net">Farma Portal</A><br>
+	<A class=scr href="//www.izmir.bel.tr/kentrehberi">İzmir Kent Rehberi</A><br>
+	<A class=scr href="//www.izmir.bel.tr">İzmir Belediyesi</A><br>
+	<A class=scr href="//www.adreslerim.com">Adreslerim</A><br>
+	<A class=scr href="//www.hukuki.net">Hukuki</A><br>
+	<A class=scr href="//www.medya.org/">Medya Org</A><br>
+	<A class=scr href="//www.canakkaletravel.com/">Çanakkale Travel</A><br>
+	<A class=scr href="//www.turk-internet.com/portal/index.php">Türk İnternet</A><br>
+	<A class=scr href="//www.tekstilportal.com">Tekstil Portal</A><br>
+	<A class=scr href="//www.mavipiksel.com">Mavi Piksel</A><br>
+	<A class=scr href="//www.tekadres.com">Tek Adres</A><br>
+	<A class=scr href="//www.marmaraweb.com">Marmara Web</A><br>
+	<A class=scr href="//www.tribundergi.com">Tribün Dergi</A><br>
+	<A class=scr href="//www.tupbebek.com">Tüp Bebek</A><br>
+	<A class=scr href="//www.support.com.tr">Support</A><br>
+	<A class=scr href="//www.hergele.com">Hergele</A><br>
+	<A class=scr href="//www.psikoloji.gen.tr">Psikoloji</A><br>
+	<A class=scr href="//www.dentalturk.com">Dental Türk</A><br>
+	<A class=scr href="//www.buluruz.com">Buluruz</A><br>				
+	<A class=scr href="//www.uretmake.com">Üretmake</A><br>
+	<A class=scr href="//www.webiletisim.com">Web İletişim</A><br>
+	<A class=scr href="//www.hukukturk.com">Hukuk Türk</A><br>
+	<A class=scr href="//www.bilgitoplumu.gov.tr">Bilgi Toplumu</A><br>		
+	<A class=scr href="//www.hazirportal.com/">Hazır Portal</A><br>	
+	<A class=scr href="//www.armaweb.com.tr/">Arma Web</A><br>
+	<A class=scr href="//www.bildirgec.org">Bildirgeç</A><br>
+	<A class=scr href="//www.turkishdomains.org">Türk Domain</A><br>
+	<A class=scr href="//www.e-netdizayn.com">E-Net Dizayn</A><br>
+	<A class=scr href="//www.turkmobilya.com">Türk Mobilya</A><br>
+	<A class=scr href="//www.olimpus.com.tr">Olimpus</A><br>	
+	<A class=scr href="//www.trakya-net.com">Trakya-Net</A><br>
+	<A class=scr href="//www.donanimmerkezi.com">Donanım Merkezi</A><br>
+	<A class=scr href="//www.portalturka.com">Portal Turka</A><br>
+	<A class=scr href="//www.internethaftasi.org.tr">İnternet Haftası</A><br>
+	<A class=scr href="//www.muzik.kurslari.com">Müzik Kursları</A><br>
+	<A class=scr href="//www.soyagaci.gen.tr">Soy Ağacı</A><br>	
+	<A class=scr href="//www.gazeteler.com">Gazeteler</A><br>
+	<A class=scr href="//www.webservis.gen.tr">Web Servis</A><br>
+	<A class=scr href="//www.ozgunonline.com">Özgün Online</A><br>
+	<A class=scr href="//www.bursbul.com">Burs Bul</A><br>
+	<A class=scr href="//www.microturk.net">Micro Türk</A><br>
+	<A class=scr href="//www.beyazesyam.com">Beyaz Eşyam</A><br>
+	<A class=scr href="//www.ibm.com/">İBM</A><br>
+	<A class=scr href="//www.parkyeri.com">Park Yeri</A><br>	
+	<A class=scr href="//www.randevum.com">Randevum</A><br>
+	<A class=scr href="//www.evciltoplist.com">Hayvanlar Alemi</A><br>
+	<A class=scr href="//www.oyunweb.com">Oyun Web</A><br>
+	<A class=scr href="//www.add.org.tr">ADD</A><br>	
+	<A class=scr href="//www.turkuler.com">Türküler</A><br>	
+	<A class=scr href="//www.mahzuniserif.com/">Mahzuni Şerif</A><br>
+	<A class=scr href="//www.gulemekci.com"Gül Emekçi</A><br>
+	<A class=scr href="//www.yenibiris.com">Yeni Bir İş</A><br>
+	<A class=scr href="//www.internetradyolari.com">İnternet Radyoları</A><br>
+	<A class=scr href="//www.incikutusu.com">İnci Kutusu</A><br>
+	<A class=scr href="//www.altinkalpler.com">Altın Kalpler</A><br>
+	<A class=scr href="//www.astroloji.org">Astroloji</A><br>
+	<A class=scr href="//www.astrolojist.com">Astrolojist</A><br>
+	<A class=scr href="//www.adresler.biz">Adresler</A><br>
+	<A class=scr href="//www.turkcebilgi.com">Türkçe Bilgi</A><br>
+	<A class=scr href="//www.medyatakip.com">Medya Takip</A><br>
+	<A class=scr href="//www.jurnal.net">Jurnal</A><br>
+	<A class=scr href="//www.haber.gen.tr">Haber</A><br>
+	<A class=scr href="//www.superbilet.com">Süper Bilet</A><br>
+	<A class=scr href="//www.gazeteyeri.com">Gazete Yeri</A><br>
+	<A class=scr href="//www.webyazilim.com">Web Yazılım</A><br>
+	<A class=scr href="//www.etimaden.gov.tr">Eti Maden</A><br>
+	<A class=scr href="//www.otogazete.com">Oto Gazete</A><br>
+                   </DIV></font></TD></TR>
+
+<TR>
+<TD onmouseover="this.style.backgroundColor  = '990000';" onmouseout="this.style.backgroundColor = '000099';" bgColor=#00008B width=250 HEIGHT=15>
+<A class=scroll onmouseover="return doScrollerIE('down','s1',10)" onmouseout=clearInterval(sRepeat) href="index.html">
+<IMG width=250 height=15 src="navdown.gif" border="0"></A></TD></TR></TBODY></TABLE>
+<noscript>Your browser does not support JavaScript!</noscript> 
+<TABLE cellSpacing=0 cellPadding=0 border=1 bgcolor=white bordercolor=#3856EF STYLE="border-collapse:collapse" width=250 align=center>
+<TBODY>
+
+<TR>
+<TD align=center WIDHT=250  bgcolor=#3856EF border=1 bordorcolor=#33ffff>
+<script type="text/javascript">
+var system="siteneekle";
+var para_birimleri="USD-EUR";
+var arkaplan="FFFFFF";
+var baslik="FFFFFF";
+var cerceve="0C79F5";
+var turbaslik="999999";
+var kutucuk="FFFFFF";
+var fiyat="CC3300";
+var genislik="250";
+var konum="center";
+var yatay="2";
+var slide="slides";
+var dikey="1";
+var paylasim="kapali";
+</script>
+<a id="altin_doviz_kuru_ekle" href="//www.altin.net.tr/doviz_kuru_ekle.php">Sitene Döviz Kuru Ekle </a>
+<script type="text/javascript" charset="UTF-8" src="//www.altin.net.tr/js/doviz2.js"></script>
+</TD>
+</TR>		
+
+<tr>
+<td bgcolor=white width=250 height=27  bordercolorlight=#0099FF bordercolordark=#000080 
+    bordercolor=#000080 style="border-left-style: solid; border-left-width:1; border-right-style: solid; border-right-width:1; 
+    border-top-style: solid; border-top-width:1; padding:1">
+<center><img src="gglogo.jpg"height=20 width=240 alt="Google Gruplar"></center>
+</td>
+</tr>
+
+<tr>
+<td style="padding:1; border-left-style:solid; border-left-width:1; border-right-style:solid; border-right-width:1" 
+bgcolor="white" height="20" width="250" bordercolorlight="#0099FF" bordercolordark="#000080" bordercolor="#000080"> 
+<font face="Arial" color=#000080 style="font-size:10px">
+<center><b>Grup Can Dostum' a Kayıt Olun</center></font></b></td>
+</tr>
+
+<tr>
+<form action="//groups.google.com.tr/group/candostum/boxsubscribe">
+<td style="padding:1; border-left-style:solid; border-left-width:1; border-right-style:solid; border-right-width:1" 
+bgcolor="red" height="23" width="250" bordercolorlight="#0099FF" bordercolordark="#000080" bordercolor="#000080"> 
+<b><font color="white" size=1 face="Arial" weight=bold>@-mail:</font></b><input type=text name=email size=18><font face="Arial Narrow" size="1">
+<input type=submit name="sub" value="Kayıt Ol!" style="border-style:solid; border-width:1px; font-family: Arial; color: white; weight=bold; font-size: 10px; background-color: red"></font>
+</td>
+</TR></form>
+   
+<tr>
+<td style="padding:1; border-left-style:solid; border-left-width:1; border-right-style:solid; border-right-width:1; 
+border-bottom-style:solid; border-bottom-width:1" bgcolor="white" height="20" width="250" bordercolorlight="#0099FF" 
+bordercolordark="#000080" bordercolor="#000080"> 
+<font color="#000080" face="arial" style="font-size: 9pt">
+<a href="//groups.google.com/group/candostum?hl=tr"><b>
+<font color="#000080" face="arial" style="font-size: 10px"><center>Grup Can Dostum'u Ziyaret Edin</center></font></b></a>
+</td>
+</tr>
+
+<TR>
+<TD align=center width=250  bgColor=#0000ff border=1 bordorcolor=33ffff >
+
+</td>
+</TR>
+
+<! --------- 7 Dilde sözlük başladı --------->
+<tr>
+<TD align=center  width=250  bgColor=#0000ff>
+<table border=0 cellpadding="0" width="250" STYLE="border-collapse: collapse" bordercolorlight="#0099FF" bordercolordark="#000080" 
+    bordercolor="#000080" style="border-left-style: solid; border-left-width:1; border-right-style: solid; border-right-width:2; 
+    border-top-style: solid; border-top-width:2; border-bottom-style: solid; border-bottom-width:2; padding:2">
+	
+<tr>
+<td width="250" bgcolor="#0000ff">
+<form action="//www.langtolang.com" name="frmSozluk" method="POST"><input type="hidden" name="selectMenuLang" value="1">           
+<table border="0" cellpadding="0" WIDTH="250" CELLSPACING="0" STYLE="border-collapse: collapse; color:#000080; 
+font-family:Verdanaserif" BORDERCOLOR=#000080 BGCOLOR=#3856EF BORDERCOLORLIGHT=white BORDERCOLORDARK=white>
+<td WIDTH="250" BGCOLOR="#0000ff" HEIGHT="20" align=center STYLE="border-left-style: solid; border-left-width:1; 
+border-right-style: solid; border-right-width:1; border-top-style: solid; border-top-width:1">  
+<b><FONT COLOR="white" SIZE="2" FACE="Arial">7 Dilde Çeviri Motoru</FONT></b>
+</td>     
+</tr>
+
+<TR>
+<td WIDTH=250 align=center BGCOLOR="#0000ff" HEIGHT="20" STYLE="border-left-style: solid; border-left-width:1; border-right-style: solid; border-right-width:1">          
+<SELECT name='selectFrom' size=1 class="formobjects" STYLE="color: #000080; font-family:Arial">
+<OPTION value='English'>İngilizce'den</OPTION> 
+<OPTION value='Turkish'>Türkçe'den</OPTION> 
+<OPTION value='German'>Almanca'dan</OPTION> 
+<OPTION value='French'>Fransızca'dan</OPTION> 
+<OPTION value='Spanish'>İspanyolca'dan</OPTION> 
+<OPTION value='Russian'>Rusca'dan</OPTION> 
+<OPTION value='Italian'>İtalyanca'dan</OPTION> 
+</SELECT>
+<SELECT name='selectTo' size=1 class="formobjects" STYLE="color: #000080; font-family:Arial">
+<OPTION value='Turkish'>Türkçe'ye</OPTION> 
+<OPTION value='English'>İngilizce'ye</OPTION> 
+<OPTION value='German'>Almanca'ya</OPTION> 
+<OPTION value='French'>Fransızca'ya</OPTION> 
+<OPTION value='Spanish'>İspanyolca'ya</OPTION> 
+<OPTION value='Russian'>Rusca'ya</OPTION> 
+<OPTION value='Italian'>İtalyanca'ya</OPTION> 
+</SELECT>
+</td>
+</tr>
+
+<tr>
+<td WIDTH=250 align=center BGCOLOR=#0000ff ALIGN=center HEIGHT=20 STYLE="border-left-style: solid; border-left-width: 1; border-right-style: solid; border-right-width:1">
+</tr>
+
+<tr>
+<td WIDTH=250 align=center BGCOLOR=#0000ff  HEIGHT=20 STYLE="border-left-style: solid; border-left-width: 1; border-right-style: solid; border-right-width:1">
+<FONT COLOR=#000080><input maxLength=125 name="txtLang" size=22 class="formobjects"></FONT>
+<input type="submit" value=" Çevir " name="submit" class="formobjects" STYLE="border-style:solid; 
+border-width:2; color: white; padding:1; font-family:Arial; font-weight:bold; font-size:12px; background-color:red">
+</td>
+</tr>
+</table></FORM>
+<! --------------7 Dilde çeviri bitti------------>
+
+<table border=0 cellspacing=2 cellpadding=2 width=250 bgcolor=#eeeeee>
+<form method="get" action="//www.pratiksozluk.com/sozluk.php">
+<tr>
+<td align=center>
+<a href="//www.pratiksozluk.com" style="font-family: Arial; font-size: 14px; color: #00d; text-decoration: none;"><b>Pratik Sözlük</b></a>
+</td>
+<tr>
+<td align=center><input type="text" name="word" size=30 style="font-family:Arial; font-size:12px;"></td></tr>
+<tr><td align=center>
+<select name="dictionary" size="1" style="font-family: Arial; font-size:12px;">
+<option value="0">İngilizce - Türkçe</option>
+<option value="1">Türkçe - İngilizce</option>
+<option value="2">Almanca - Türkçe</option>
+<option value="3">Türkçe - Almanca</option>
+</select>
+<input type="submit" value=" Çevir " STYLE="border-style:solid; 
+border-width:2; color: white; padding: 1; font-family:Arial; font-weight:bold; font-size:12px; background-color:red">
+</td>
+</tr>
+</form>
+</table>
+
+<!--WEBBOT BOT="HTMLMarkup" STARTSPAN --> 
+<TR>
+<TD Valign=middle align=center WIDHT=250 HEIGHT=25 bgcolor=#0000ff>
+<FONT face=arial weight=bold COLOR=white SIZE=2><B>Ülkeler Rehberi</B></FONT>
+</td>
+</tr>
+    
+<TR>
+<TD vAlign="middle" align="center" WIDTH="250" HEIGHT="30" BGCOLOR="#0000ff">
+<select name=select onChange="if (this.options[this.selectedIndex].value != 'null')
+  { window.open(this.options[this.selectedIndex].value,'_new') }" size=1 
+  style="width:180 ; height:20; font-family:Arial; font-size:9pt; weight:bold; color:#000080"> 
+<option selected value=null>Bir Ülke Seçin</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_abd_rehber.shtml">ABD</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_almanya_rehber.shtml">Almanya</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_afganistan_rehber.shtml">Afganistan</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_azerbaycan_rehber.shtml">Azerbaycan</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_belcika_rehber.shtml">Belçika</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040109_bulgaristan_rehber.shtml">Bulgaristan</option>
+<option value="http://www.bbc.co.uk/turkish/indepth/story/2004/05/040504_cek_rehber.shtml">Çek Cumhuriyeti</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040115_cin_rehber.shtml">Çin</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_ermenistan_rehber.shtml">Ermenistan</option>
+<option value="http://www.bbc.co.uk/turkish/indepth/story/2004/05/040504_estonya_rehber.shtml">Estonya</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_fransa_rehber.shtml">Fransa</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040127_gurcistan_rehber.shtml">Gürcistan</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040109_hindistan_rehber.shtml">Hindistan</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_irak_rehber.shtml">Irak</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_birlesik_krallik_rehber.shtml">İngiltere(UK)</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_iran_rehber.shtml">İran</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_irlanda_rehber.shtml">İrlanda</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_ispanya_rehber.shtml">İspanya</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_israil_filistin_rehber.shtml">İsrail</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_italya_rehber.shtml">İtalya</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040116_japonya_rehber.shtml">Japonya</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_kibris_rehber.shtml">Kıbrıs</option>
+<option value="http://www.bbc.co.uk/turkish/indepth/story/2004/05/040515_letonya_rehber.shtml">Letonya</option>
+<option value="http://www.bbc.co.uk/turkish/indepth/story/2004/05/040515_litvanya_rehber.shtml">Litvanya</option>
+<option value="http://www.bbc.co.uk/turkish/indepth/story/2004/05/040515_macaristan_rehber.shtml">Macaristan</option>
+<option value="http://www.bbc.co.uk/turkish/indepth/story/2004/05/040515_malta_rehber.shtml">Malta</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040115_misir_rehber.shtml">Mısır</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_pakistan_rehber.shtml">Pakistan</option>
+<option value="http://www.bbc.co.uk/turkish/indepth/story/2004/05/040515_polonya_rehber.shtml">Polonya</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040109_rusya_rehber.shtml">Rusya</option>
+<option value="http://www.bbc.co.uk/turkish/indepth/story/2004/10/041022_sirbistan_karadag_rehber.shtml">Sırbistan</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040112_suriye_rehber.shtml">Suriye</option>
+<option value="http://www.bbc.co.uk/turkish/indepth/story/2005/03/041011_suudi_arabistan_rehber.shtml">S.Arabistan</option>
+<option value="http://www.bbc.co.uk/turkish/news/story/2004/01/040109_yunanistan_rehber.shtml">Yunanistan</option>
+<option value="null">-----------</option>
+<option value="null">BÖLGELER</option>
+<option value="//www.bbc.co.uk/turkish/indepth/story/2005/02/050223_cecenistan_rehber.shtml">Çeçenistan</option>
+<option value="//www.bbc.co.uk/turkish/indepth/story/2004/10/041022_kosova_rehber.shtml">Kosova</option>
+</select></font>         
+</TD></TR></table>         
+
+<TR>
+<td WIDTH=250 BGCOLOR=white HEIGHT=70 Valign=middle align=center bordercolorlight=#0099FF bordercolordark=#000080 
+    bordercolor=#000080 style="border-left-style: solid; border-left-width:1; border-right-style: solid; border-right-width:2; 
+    border-top-style: solid; border-top-width:2; border-bottom-style: solid; border-bottom-width:2; padding:2">
+<font face=arial size=1 color=#6699ff><a href="hitabe.jpg"><img src="hitabe.bmp" width=250 height=70 border="1" valign=middle align=center alt="Gençliğe Hitabe' yi okumak için tıklayabilirsiniz..."></a></font>
+</td>
+</TR>
+</TBODY></TABLE>
+</div>
+</TR>
+</TBODY></TABLE>
+    
+<TR>
+<TD Valign=middle width=1030 bgColor=white colSpan=3 height=60>
+<TABLE borderColor=#3399FF  width=1060 bgColor=white borderColorLight=white border=0 STYLE="border-collapse:collapse">
+<TBODY>
+<TD align=CENTER width=510 rowSpan=2 bgColor=white  height=60 BORDER=0 bordercolor=#3399FF style="border-style:solid; border-width:2px; background-color=white">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-3908980813979273",
+    enable_page_level_ads: true
+  });
+</script>
+</TD>
+
+<TD align=center width=320 bgColor=white rowSpan=2 height=60 BORDER=2 bordercolor="red" style="border-style:solid; border-width:0px; padding:0; background-color=white">
+<a href="https://www.youtube.com/watch?v=d1cSBGmuON0"><IMG BORDER=0 SRC="nmtd.gif" WIDTH=320 HEIGHT=60 alt="Gençliğe Hitabe'yi dinlemek için tıklayabilirsiniz..."></a></td>
+<td align=left valign=middle width=90 bgColor=white height=30><a href="//www.ata.tsk.tr"><FONT FACE=Arial SIZE=1>Atatürk Sitesi</FONT></a></td>
+<td align=left valign=middle width=90 bgColor=white height=30><a href="//www.isteataturk.com"><font size=1 face=Arial>İşte Atatürk</font></a></td>
+<td align=left valign=middle width=90 bgColor=white height=30><a href="//www.ataturkiye.com"><font face=Arial size=1>Ata Türkiye</font></a></td>
+<td align=left valign=middle width=90 bgColor=white height=30><a href="ataturk_sozleri.pdf"><font face=Arial size=1>Atam Sözleri</font></a></td>
+<td align=left valign=middle width=90 bgColor=white height=30><input onClick="scrollTo(0,650);" class="select" TYPE="button" VALUE="Sayfa Ortası" STYLE="border:0px solid white; padding:0; color: #000080; font-size: 10px; font-family:Arial; font-weight:bold; background-color:white; float:left"></td>
+
+<TR>
+<td align=left valign=middle width=90 bgColor=white height=30><a href="//www.ataturkdevrimleri.com"><font size=1 face=Arial>Devrimler</font></a></td>
+<td align=left valign=middle width=90 bgColor=white height=30><a href="//www.atam.gov.tr"><font size=1 face=Arial>Atam Özel</font></A></td>
+<td align=left valign=middle width=90 bgColor=white height=30><a href="//www.ataturktoday.com"><font face=Arial size=1>Atam Bugün</font></a></td>
+<td align=left valign=middle width=90 bgColor=white height=30><a href="ataturk_nutuk.pdf"><font size=1 face=Arial>Atam Nutuk</font></A></td>
+<td align=left valign=middle width=90 bgColor=white height=30><input onClick="scrollTo(0,1400);" class="select" TYPE="button" VALUE="Sayfa Sonu" STYLE="border:0px solid white; padding:0; color: #000080; font-size: 10px; font-family:Arial; font-weight:bold; background-color:white; float:left"></td>
+</tr>
+</TBODY></TABLE></DIV></TD> 
+          
+<TR>
+<TD Valign=top width=360 bgColor=white>
+<TABLE width=360 STYLE="border-collapse:collapse" BORDERCOLOR=#3399FF border=2 CELLPADDING=0 CELLSPACING=0>
+<TBODY>
+<TR>
+<TD Align=center Valign=middle width=360>
+<TABLE cellSpacing=0 cellPadding=0 width=360 STYLE="border-collapse:collapse" BORDERCOLOR=#3399FF border=0>
+<TBODY>
+
+<tr>
+<td bordercolorlight=#3399FF bordercolordark=#0000FF bordercolor=#3399FF width=360 height=230>
+<iframe width=360 height=230 src="https://www.youtube.com/embed/IVoJ00xpVi4?list=PLn1XjrBdWnx0o6xJgUxDspQMEzWBUTNjQ" frameborder=2></iframe>
+</td>
+</tr>
+
+<TABLE cellSpacing=0 cellPadding=0 width=360 border=0 style="border-collapse:collapse" bordercolor=white>
+<TR>
+<TD align=left width=15 height=15 BGCOLOR=white ><A HREF="turkuhikayeleri.html"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15></A></td>
+<TD align=left width=105 height=20 BGCOLOR=white><A HREF="turkuhikayeleri.html"><font face=Arial size=1>Türkü Hikayeleri</font></A></td>
+<TD align=left width=15 height=15 BGCOLOR=white ><A HREF="thmsanatcilari.html"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15></A></td>
+<TD align=left width=105 height=20 BGCOLOR=white><A href="thmsanatcilari.html"><font face=Arial size=1>THM Sanatçıları</font></A></TD>
+<TD align=left width=15 height=15 BGCOLOR=white ><A HREF="https://www.youtube.com/channel/UCwabVTKBJru-0w3WV7t_x-g"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15></A></td>
+<TD align=left width=105 height=20 BGCOLOR=white><A href="https://www.youtube.com/channel/UCwabVTKBJru-0w3WV7t_x-g"><font face=Arial size=1>Türkülü Yürekler</font></A></TD>
+</tr> 
+
+<TR>
+<TD align=left width=15 height=15 BGCOLOR=white ><A HREF="//www.tcmb.gov.tr/kurlar/kurlar_tr.html"><B><FONT SIZE=3 face=arial COLOR=#CC0066>$</FONT></B></A></td>
+<TD align=left width=105 height=20 BGCOLOR=white><A HREF="//www.tcmb.gov.tr/kurlar/kurlar_tr.html"><font face=Arial size=1>Döviz (TCMB)</font></A></td>
+<TD align=left width=15 height=15 BGCOLOR=white ><A HREF="//www.paragaranti.com/pages/doviz.jsp"><B><FONT SIZE=3 COLOR=#CC0066>€</FONT></B></A></TD>
+<TD align=left width=105 height=20 BGCOLOR=white><A href="//www.paragaranti.com/pages/doviz.jsp"><font face=Arial size=1>Döviz (Piyasa)</font></A></TD>
+<TD align=left width=15 height=15 BGCOLOR=white ><A HREF="//altin.in"><B><FONT SIZE=3 COLOR=#CC0066>$</FONT></B></A></TD>
+<TD align=left width=105 height=20 BGCOLOR=white><A href="//altin.in"><font face=Arial size=1>Altın Fiyatları</font></A></TD>
+</tr> 
+               
+<TR>
+<TD align=left width=15 height=15 BGCOLOR=white ><A HREF="//www.izmir.bel.tr"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15></a></TD>
+<TD align=left width=105 height=20 BGCOLOR=white><A HREF="//www.izmir.bel.tr"><FONT SIZE=1 FACE=Arial>İzmir Belediyesi</font></A></TD>
+<TD align=left width=15 height=15 BGCBLOR=white ><A HREF="//www.ozanlar.biz"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15></a></td>
+<TD align=left width=105 height=20 BGCOLOR=white><A HREF="//www.ozanlar.biz"><font face=Arial size=1>Ozanlarımız</font></A></td>
+<TD align=left width=15 height=15 BGCOLOR=white ><A HREF="//turkulerimiz.biz/"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15 ALT="Türkülerimiz..."></a></TD>
+<TD align=left width=105 height=20 BGCOLOR=white><A HREF="//turkulerimiz.biz/"><FONT SIZE=1 FACE=Arial>Türkülerimiz</FONT></A></TD>
+</tr>
+
+<tr>
+<TD align=left width=15 height=15 BGCOLOR=white ><A HREF="//www.siir.gen.tr/sairlerimiz.htm"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15></font></a></td>  
+<TD align=left width=105 height=20 BGCOLOR=white><A HREF="//www.siir.gen.tr/sairlerimiz.htm"><font face=Arial size=1>Şairlerimiz</font></A></TD>
+<TD align=left width=15 height=15 BGCOLOR=white ><A HREF="nazim_hikmet_siirleri.rar"><font size=1><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15 ALT="Nazım Hikmet Şiirleri..."></A></td>
+<TD align=left width=105 height=20 BGCOLOR=white><A HREF="nazim_hikmet_siirleri.rar"><FONT SIZE=1 FACE=Arial>Nazım Hikmet Şiirleri</font></A></td>
+<TD align=left width=15 height=15 BGCOLOR=white ><A href="ahmed_arif_siirleri.pdf"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15 ALT="Ahmed Arif Şiirleri..."></A></td>
+<TD align=left width=105 height=20 BGCOLOR=white><A href="ahmed_arif_siirleri.pdf"><FONT face=Arial  size=1>Ahmed Arif Şiirleri</FONT></A></TD>
+</tr>
+
+<tr>
+<TD align=center width=360 height=60 colspan=6>  
+<a href="//www.mgm.gov.tr"><img src="//www.mgm.gov.tr/sunum/tahmin-klasik-5070.aspx?m=IZMIR&basla=1&bitir=5&rC=111&rZ=fff" style="width:360px; height:70px;" alt="İzmir"></a>
+</TD>
+</TR>
+
+<TR>
+<TD align=left width=15 height=15 BGCOLOR=white ><A href="//www.turkcell.com.tr"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15 ALT="Tukcell Web Sitesi..."></A></td>
+<TD align=left width=105 height=20 BGCOLOR=white><A href="//www.turkcell.com.tr"><FONT face=Arial size=1>Turkcell</FONT></A></td>
+<TD align=left width=15 height=15 BGCOLOR=white ><A HREF="https://www.turktelekom.com.tr"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15 ALT="Türk Telekom Web Sitesi..."></a></TD>
+<TD align=left width=105 height=20 BGCOLOR=white><A HREF="https://www.turktelekom.com.tr"><FONT SIZE=1 FACE=Arial>Türk Telekom</FONT></A></TD>
+<TD align=left width=15 height=15 BGCOLOR=white ><A HREF="//www.vodafone.com.tr"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15 ALT="Vodafone Web Sitesi..."></A></TD>
+<TD align=left width=105 height=20 BGCOLOR=white><A HREF="//www.vodafone.com.tr"><FONT SIZE=1 FACE=Arial>Vodafone</FONT></A></TD>
+</tr>
+
+<tr>
+<TD align=left width=15 height=15  BGCOLOR=white><A href="//www.hizliresim.com"><IMG BORDER="0" SRC=win.gif ALIGN=left width=15 height=15></A></td>
+<TD align=left width=105 height=20 BGCOLOR=white><A href="//www.hizliresim.com"><FONT face=Arial size=1>Hızlı Resim Yükle</FONT></A></td>
+<TD align=left width=15 height=15  BGCOLOR=white><A href="//www.izdeniz.com.tr/"><IMG BORDER="0" SRC="win.gif" WIDTH=15 HEIGHT=15></A></td>
+<TD align=left width=105 height=20 BGCOLOR=white><A href="//www.izdeniz.com.tr/"><FONT face=Arial size=1>Deniz Otobüsü</FONT></A></TD>
+<TD align=left width=15 height=15  BGCOLOR=white><A href="//www.ttrehber.turktelekom.com.tr/trk-wp/IDA2"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15></A></td>
+<TD align=left width=105 height=20 BGCOLOR=white><A href="//www.ttrehber.turktelekom.com.tr/trk-wp/IDA2"><FONT face=Arial size=1>Telefon Rehberi</FONT></A></TD>
+</TR>
+
+<TR>
+<TD align=left width=15 height=15 BORDER=0  BGCOLOR=white><A href="//www.biyografi.net"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15></a></td>
+<TD align=left width=90 height=20><A href="//www.biyografi.net"><FONT face=Arial size=1>Biyografi Net</FONT></A></td>
+<TD align=left width=15 height=15 BORDER=0  BGCOLOR="white"><A href="ahmed_arif_sesli_siirler.html"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15></a></td>
+<TD align=left width=125 height=20><A href="ahmed_arif_sesli_siirler.html"><FONT face=Arial size=1>Ahmed Arif Kendi Sesinden Şiirler</FONT></A></td>
+<TD align=left width=15 height=15 BORDER=0  BGCOLOR=white><A href="nazim_sesli_siirler.html"><IMG BORDER=0 SRC=win.gif WIDTH=15 HEIGHT=15></a></td>
+<TD align=left width=125 height=20><A href="nazim_sesli_siirler.html"><FONT face=Arial size=1>Nazım Hikmet KendiSesinden Şiirler</FONT></A></td>
+</tr>
+
+<TR>
+<TD align=left width=15 height=15 BORDER=0 BGCOLOR=white><A href="//www.yapikrediyatirim.com.tr"><IMG BORDER=0 SRC=moneybag.gif WIDTH=15 HEIGHT=15></a></td>
+<TD align=left width=105 height=20><A href="//www.yapikrediyatirim.com.tr"><FONT face=Arial size=1>Yapı Kredi Yatırım</FONT></A></TD>
+<TD align=left width=15 height=15 BORDER=0 BGCOLOR=white><a href="//www.isyatirim.com.tr"><IMG BORDER=0 SRC=moneybag.gif WIDTH=15 HEIGHT=15><a></td>
+<TD align=left width=105 height=20><A href="//www.isyatirim.com.tr"><FONT face=Arial size=1>İş Yatırım</FONT></A></TD>
+<TD align=left width=15 height=15 BORDER=0 BGCOLOR=white><A href="//www.garantiyatirim.com.tr"><IMG BORDER=0 SRC=moneybag.gif WIDTH=15 HEIGHT=15></a></td>
+<TD align=left width=105 height=20><A href="//www.garantiyatirim.com.tr/"><FONT face=Arial size=1>Garanti Yatırım</FONT></A></TD>
+</tr>  	
+
+<TR>
+<TD align=left width=15 height=15 BORDER=0 BGCOLOR=white><A href="//yatirimci.akbank.com"><IMG BORDER=0 SRC=moneybag.gif WIDTH=15 HEIGHT=15></a></td>
+<TD align=left width=105 height=20><A href="//yatirimci.akbank.com"><FONT face=Arial size=1>Akbank Yatırım</FONT></A></TD>
+<TD align=left width=15 height=15 BORDER=0 BGCOLOR=white><A href="https://www.denizyatirim.com"><IMG BORDER=0 SRC=moneybag.gif WIDTH=15 HEIGHT=15></a></td>
+<TD align=left width=105 height=20><A href="https://www.denizyatirim.com"><FONT face=Arial size=1>Deniz Yatırım</FONT></A></TD>
+<TD align=left width=15 height=15 BORDER=0 BGCOLOR=white><A href="//www.sekeryatirim.com"><IMG BORDER=0 SRC=moneybag.gif WIDTH=15 HEIGHT=15></a></td>
+<TD align=left width=105 height=20><A href="//www.sekeryatirim.com"><FONT face=Arial size=1>Şeker Yatırım</FONT></A></TD>
+</tr> 
+
+<tr>
+<TD borderColor=white width=360 bgColor=white colSpan=6 height=60 ALIGN="center" BORDER=0>
+<TABLE height=60 width=360 BORDERCOLOR="white" CELLSPACING="0" BGCOLOR="white" BORDER="0" STYLE="border-collapse: collapse" CELLPADDING="0" BORDER=0  align="center">
+<TBODY>
+<TR>
+<TD borderColor=white width=120 BGCOLOR="white" HEIGHT="75" BORDER=0  ALIGN="center">
+<center>
+
+<!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,3712486,4,29,115,60,00011111']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3712486&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+ 
+</center></td>
+<TD borderColor=white  WIDTH="120" HEIGHT="60" BGCOLOR="white" ALIGN="center" BORDER=0  rowspan="3">
+<input onClick="scrollTo(0,650);" class="select" TYPE="button" VALUE="Sayfa Ortası" STYLE="border:1px solid white; padding:1; font-size: 8pt; color: #CC0066; font-family:Arial; text-decoration:blink; font-weight:bold; background-color:white"><b><br>
+<a class=chlnk style="CURSOR: hand; text-decoration:none" href=//tr.wikipedia.org/wiki/%C4%B0smet_%C4%B0n%C3%B6n%C3%BC target=_blank >
+<font color="#338080" FACE="Arial" SIZE="2">İ</font><FONT face=Arial size=2 color="#609900">s</font><font color="#FF0099">m</font><font color="#808000">e</font><font color="#0000FF">t</font>&nbsp;&nbsp;İ<font color="#ff6638">n</font><font color="#ff6361">ö</font><font color="#0000FF">n</font><font color="#663366">ü</font></A><br>
+<input onClick="scrollTo(0,1250);" class="select"  TYPE="button" VALUE="En Sona Git" STYLE="border:1px solid white; padding:1; color: #CC0066; font-size: 8pt; font-family:Arial; text-decoration:blink; font-weight:bold; background-color:white">
+<td WIDTH="92" HEIGHT="75" BGCOLOR="white" BORDERCOLOR="white" BORDER=0  ALIGN="left" colspan="2" rowspan="3">
+<center><a href=//www.goturkey.com><img src="turkiyemiz.gif" alt="Türkiyemizi Tanıyalım mı?.." width="120" height="44"></a><br>
+<a href=//www.goturkey.com><font face=arial size=-2 color=#FF0066>Türkiyemiz</font></a></center></td>
+</TABLE>
+</div>
+</TD>
+</TR>
+
+<TR>
+<TD align=left width=15 height=15 BORDER=0 BGCOLOR=white><A href="//www.ziraatbank.com.tr/tr/Bireysel/YatirimUrunleri/Pages/YatirimFonlari.aspx"><IMG BORDER=0 SRC=moneybag.gif WIDTH=15 HEIGHT=15></a></td>
+<TD align=left width=105 height=20><A href="//www.ziraatbank.com.tr/tr/Bireysel/YatirimUrunleri/Pages/YatirimFonlari.aspx"><FONT face=Arial size=1>Ziraat Yatırım</FONT></A></TD>
+<TD align=left width=15 height=15 BORDER=0 BGCOLOR="white"><A href="//www.vakifbank.com.tr/yatirim.aspx?pageID=411"><IMG BORDER=0 SRC=moneybag.gif WIDTH=15 HEIGHT=15></a></td>
+<TD align=left width=105 height=20><A href="//www.vakifbank.com.tr/yatirim.aspx?pageID=411"><FONT face=Arial size=1>Vakıfbank Yatırım</FONT></A></TD>
+<TD align=left width=15 height=15 BORDER=0  BGCOLOR="white"><A href="//www.halkyatirim.com.tr"><IMG BORDER=0 SRC=moneybag.gif WIDTH=15 HEIGHT=15></a></td>
+<TD align=left width=105 height=20><A href="//www.halkyatirim.com.tr"><FONT face=Arial size=1>Halk Yatırım</FONT></A></TD>
+</tr> 
+ 
+<TR>
+<TD width=15 height=15 align="left"><A href="//www.seslekitap.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A href="//www.seslekitap.com"><font face="Arial" size="1">Sesle Kitap</font></A></TD>
+<TD width=15 height=15 align="left"><A href="//www.tumdunyaturizm.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A href="//www.tumdunyaturizm.com"><font face="Arial" size="1">Tüm Dünya Turizm</font></A></TD>
+<TD width=15 height=15 align="left"><A href="//www.turkiyeturizm.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A href="//www.turkiyeturizm.com"><font face="Arial" size="1">Türkiye Turizm</font></A></TD>
+</TR>
+
+<TR>
+<TD width=15 height=15 ALIGN="left"><A href="//www.takvim.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A href="//www.takvim.com"><font face="Arial" size="1">Takvim</font></a></TD>
+<TD width=15 height=15 ALIGN="left"><A href="//www.saatkac.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A href="//www.saatkac.com"><font face="Arial" size="1">Saat Kaç</font></A></TD>
+<TD width=15 height=15 ALIGN="left"><A href="https://www.ingbank.com.tr/tr/sizin-icin/mevduat-ve-yatirim"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A href="https://www.ingbank.com.tr/tr/sizin-icin/mevduat-ve-yatirim"><font face="Arial" size="1">ING Yatırım</font></A></TD>
+</tr>
+
+<tr>
+<TD width=15 height=15 ALIGN="left"><A href="//www.odeabank.com.tr/tr-TR/bireysel/yatirim/Sayfalar/default.aspx"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A href="//www.odeabank.com.tr/tr-TR/bireysel/yatirim/Sayfalar/default.aspx"><font face="Arial" size="1">Odeabank Yatırım</font></A></TD>
+<TD width=15 height=15 ALIGN="left"><A href="https://www.eximbank.gov.tr/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A href="https://www.eximbank.gov.tr"><font face="Arial" size="1">Eximbank</font></A></TD>
+<TD width=15 height=15 ALIGN="left"><A HREF="//www.otag.8k.com/karmalink.htm"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A HREF="//www.otag.8k.com/karmalink.htm"><FONT SIZE="1" FACE="Arial">Çeşitli Linkler</FONT></A></TD>
+</TR>
+
+<TR>
+<TD width=15 height=15 ALIGN="left"><a href="//www.inndir.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><a href="//www.inndir.com"><font face="Arial" size="1">İnndir</font></a></TD>
+<TD width=15 height=15 ALIGN="left"><a href="//www.indiriver.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><a href="//www.indiriver.com"><font face="Arial" size="1">İndiriver</font></a></TD>
+<TD width=15 height=15 ALIGN="left"><a href="//www.tucows.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><a href="//www.tucows.com"><font face="Arial" size="1">Tucows</font></a></TD>
+</tr>
+				
+<TR>
+<TD width=15 height=15 ALIGN="left"><A HREF="//www.turkceyama.com/default.asp"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A HREF="//www.turkceyama.com/default.asp"><FONT SIZE="1" FACE="Arial">Türkçe Yama</FONT></A></TD>
+<TD width=15 height=15 align="left"><A href="//lifestyle.com.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A href="//lifestyle.com.tr"><font face="Arial" size="1">Lifesteyle </font></A></TD>
+<TD width=15 height=15 align="left"><A href="//www.kimbunumara.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A href="//www.kimbunumara.com"><font face="Arial" size="1">Kim bu numara </font></A></TD>
+</TR>
+
+<TR>
+<TD width=15 height=15 ALIGN="left"><a href="//download.cnet.com/windows"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><a href="//download.cnet.com/windows"><font face="Arial" size="1">Download.cnet.com</font></a></TD>
+<TD width=15 height=15 align="left"><A href="//www.turkiyeharitasi.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD width=105 height=20 align="left"><A href="//www.turkiyeharitasi.com"><font face="Arial" size="1">Türkiye Haritası</font></A></TD>
+<TD width=15 height=15 align="left"><A href="//siir.sitesi.web.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD width=105 height=20 align="left"><A href="//siir.sitesi.web.tr"><font face="Arial" size="1">Şiir Sitesi</font></A></TD>
+</TR>
+              
+<tr>
+<TD width=15 height=15 ALIGN="left"><a href="//www.e-kolay.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><a href="//www.e-kolay.net"><font face="Arial" size="1">e-kolay</font></a></TD>
+<TD width=15 height=15 align="left"><A href="//www.ankarasanalgezinti.com/anitkabir"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD width=105 height=20 align="left"><A href="//www.ankarasanalgezinti.com/anitkabir"><font face="Arial" size="1">Anıtkabir Sitesi</font></A></TD>
+<TD width=15 height=15 align="left"><A href="https://www.mapquest.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD width=105 height=20 align="left"><A href="https://www.mapquest.com"><font face="Arial" size="1">Mapquest.com</font></A></TD>
+</tr>
+	  
+<tr>
+<TD width=15 height=15 ALIGN="left"><a href="//www.rocketdownload.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><a href="//www.rocketdownload.com"><font face="Arial" size="1">Rocketdownload</font></a></TD>
+<TD width=15 height=15 align="left"><A href="//www.zargan.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A href="//www.zargan.com"><font face="Arial" size="1">Zargan.com</font></A></TD>
+<TD width=15 height=15 ALIGN="left" bgcolor=white><A href="//www.adreslerim.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 bgcolor=white align="left"><A href="//www.adreslerim.com"><font face="Arial" size="1">Adreslerim.com</font></A></TD>
+</tr>  
+
+<TR>
+<TD width=15 height=15 ALIGN="left" bgcolor=white><a href="//get.adobe.com/tr/flashplayer"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 bgcolor=white align="left"><a href="//get.adobe.com/tr/flashplayer"><font face="Arial" size="1">Flash Player</font></a></TD>
+<TD width=15 height=15 ALIGN="left" bgcolor=white><a href="//windows.microsoft.com/tr-TR/windows/downloads/windows-media-player"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 bgcolor=white align="left"><a href="//windows.microsoft.com/tr-TR/windows/downloads/windows-media-player"><font face="Arial" size="1">Media Player</font></a></TD>
+<TD width=15 height=15 ALIGN="left" bgcolor=white><a href="//www.real.com/freeplayer/?rppr=jplnasagov"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 bgcolor=white align="left"><a href="//www.real.com/freeplayer/?rppr=jplnasagov"><font face="Arial" size="1">Real Player</font></a></TD>
+</TR>
+
+<TR>
+<TD width=15 height=15 ALIGN="left" bgcolor=white><A HREF="//www.enbilgin.com/2014/11/guzel-doga-manzara-resimleri-indir.html"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 bgcolor=white align="left"><A HREF="//www.enbilgin.com/2014/11/guzel-doga-manzara-resimleri-indir.html"><FONT SIZE="1" FACE="Arial">Manzara Resimleri</FONT></A></TD>
+<TD width=15 height=15 align="left"><A href="https://etcdd.tcdd.gov.tr/tcddrezwebapproot/ilknet.jsp"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A href="https://etcdd.tcdd.gov.tr/tcddrezwebapproot/ilknet.jsp"><font face="Arial" size="1">Tren Bileti</font></A></TD>
+<TD width=15 height=15 ALIGN="left" bgcolor=white><A HREF="//www.hitsaati.com/kayit"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A HREF="//www.hitsaati.com/kayit"><FONT SIZE="1" FACE="Arial">Arama Motoru Kayıt</FONT></A></TD>
+</TR>
+
+<TR>
+<TD width=15 height=15 ALIGN="left" bgcolor=white><a href="//www.9sn.net/Salvador-Dali.asp"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><a href="//www.9sn.net/Salvador-Dali.asp"><FONT SIZE="1" FACE="Arial">S.Dali Resimleri</font></a></TD>
+<TD width=15 height=15 ALIGN="left" bgcolor=white><A href="//www.yuzde100.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></TD>
+<TD width=105 height=20 align="left"><A href="//www.yuzde100.com/"><font face="Arial" size="1">YüzdeYüz.com</font></A></TD>
+<TD width=15 height=15 ALIGN="left" bgcolor=white><A HREF="https://ideal-kilo.hesaplama.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD width=105 height=20 align="left"><A HREF="https://ideal-kilo.hesaplama.net"><FONT SIZE="1" FACE="Arial">Kilo Hesapla</FONT></A></TD>
+</TR>
+
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.sahibinden.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.sahibinden.com"><font face="Arial" size="1">Sahibinden.com</font></A></TD>
+<TD align=left width=15 bgColor=white height=15><A href="//www.gittigidiyor.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=115 bgColor=white height=20><A href="//www.gittigidiyor.com"><font face="Arial" size="1">Gitti Gidiyor.com</font></A></TD>
+<TD align=left width=15 bgColor=white height=15><A HREF="//www.matematikcanavari.net/2013/08/tabber-created-by-patrick-fitzgerald.html"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=115 bgColor=white height=20><A HREF="//www.matematikcanavari.net/2013/08/tabber-created-by-patrick-fitzgerald.html"><FONT SIZE="1" FACE="Arial">Roma Rakamı Çevir</FONT></A></TD>
+</TR>
+
+<TR>
+<TD align=left width=15 bgColor=white height=15><a href="//radyodinle.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20><a href="//radyodinle.com"><font face="Arial" size="1">Radyodinle.com</font></a></TD>
+<TD align=left width=15 bgColor=white height=15><A HREF="//www.yayinonline.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.yayinonline.com"><FONT SIZE="1" FACE="Arial">Yayın Online</FONT></a></TD>
+<TD align=left width=15 bgColor=white height=15><a href="//www.google.com.tr/advanced_search"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20><a href="//www.google.com.tr/advanced_search"><font face="Arial" size="1">Gelişmiş Arama</font></a></TD>
+</TR>
+
+<tr>
+<TD align=left width=15 bgColor=white height=15><a href="//www.yayindakiler.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20><a href="//www.yayindakiler.com"><font face="Arial" size="1">Yayındakiler.com</font></a></TD>
+<TD align=left width=15 bgColor=white height=15><A HREF="//www.turkiye-online.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.turkiye-online.net"><FONT SIZE="1" FACE="Arial">Türkiye Online</FONT></a></TD>
+<TD align=left width=15 bgColor=white height=15><A href="//www.interturk.info"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.interturk.info"><font face="Arial" size="1">İntertürk</font></A></TD>
+</tr>
+
+<TR>
+<TD align=left width=15 bgColor=white height=15><a href="//www.bedavasiteyapmak.com"><IMG BORDER="0" SRC="win.gif" width="15" height="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><a href="//www.bedavasiteyapmak.com"><font face="Arial" size="1">Bedava Web</font></a></TD>
+<TD align=left width=15 bgColor=white height=15><A href="//www.ttkd.org.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.ttkd.org.tr"><font face="Arial" size="1">Tüketici Koruma</font></A></TD>
+<TD align=left width=15 bgColor=white height=15><A HREF="//www.beyazesyam.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.beyazesyam.com"><FONT SIZE="1" FACE="Arial">Beyaz Eşyam</FONT></A></TD>
+</TR>
+
+<TR>
+<TD align=left width=15 bgColor=white height=15><A href="//www.delinetciler.org/insana-dair/46526-eski-bir-tapinak-yaziti-xsentus-i-o-9-yuzyil.html"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.delinetciler.org/insana-dair/46526-eski-bir-tapinak-yaziti-xsentus-i-o-9-yuzyil.html"><font face="Arial" size="1">Bir Tapınak Yazıtı</font></A></TD>
+<TD align=left width=15 bgColor=white height=15><A href="https://www.outletim.com/anasayfa.php"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="https://www.outletim.com/anasayfa.php"><font face="Arial" size="1">Outletim.com</font></A></TD>
+<TD align=left width=15 bgColor=white height=15><A href="//alisverissepeti.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//alisverissepeti.com"><font face="Arial" size="1">Alışveriş Sepeti</font></A></TD>
+</tr>
+
+<tr>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A HREF="//www.ombudsman.gov.tr/contents/files/688B1--Insan-Haklari-Evrensel-Beyannamesi.pdf"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.ombudsman.gov.tr/contents/files/688B1--Insan-Haklari-Evrensel-Beyannamesi.pdf"><FONT FACE="Arial" SIZE="1">İnsan Hakları</FONT></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//gizliilimler.tr.gg/Hammurabi-Kanunlar%26%23305%3B--k1-Hammurabi-Yasalar%26%23305%3B,-Hammurabi-h-s-Code-k2-,-1-.-B.oe.l.ue.m.htm"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//gizliilimler.tr.gg/Hammurabi-Kanunlar%26%23305%3B--k1-Hammurabi-Yasalar%26%23305%3B,-Hammurabi-h-s-Code-k2-,-1-.-B.oe.l.ue.m.htm"><font face="Arial" size="1">Hammurabi Yasa</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.gelisenbeyin.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.gelisenbeyin.net"><font face="Arial" size="1">Gelişen Beyin</font></A></TD>
+</TR>
+
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.bilisimruzgari.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.bilisimruzgari.com"><font face="Arial" size="1">Bilişim Rüzgarı</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.kadinbilisimci.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.kadinbilisimci.com"><font face="Arial" size="1">Kadın Bilişimci</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.aktifbilisimciler.org"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.aktifbilisimciler.org"><font face="Arial" size="1">Aktif Bilişimciler</font></A></TD>
+</tr>
+
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left"><a href="//www.kadinlarkulubu.com/portal"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><a href="//www.kadinlarkulubu.com/portal"><font face="Arial" size="1">Anaportal.com</font></a></TD>
+<TD width=5 bgColor=white height=15 ALIGN="left"><A href="//www.bildirgec.org"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.bildirgec.org"><font face="Arial" size="1">Bildirgec.org</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.zirveyazilim.net/v1"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.zirveyazilim.net/v1"><font face="Arial" size="1">Zirve Yazılım</font></A></TD>
+</TR>
+
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left"><a href="//www.uretmake.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><a href="//www.uretmake.com"><font face="Arial" size="1">Üretmake.com</font></a></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.buluruz.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></FONT></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.buluruz.com"><font face="Arial" size="1">Buluruz.com</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.webiletisim.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.webiletisim.com"><font face="Arial" size="1">Web İletişim</font></A></TD>
+</TR>
+
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A HREF="//www.gelecekonline.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.gelecekonline.com"><font face="Arial" size="1">Gelecek Online</FONT></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A HREF="//www.babamonk.com/2012/04/acemiler-icin-sabr-sinir-zeka-rubikin.html#axzz2sBSczlxb"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.babamonk.com/2012/04/acemiler-icin-sabr-sinir-zeka-rubikin.html#axzz2sBSczlxb"><font face="Arial" size="1">Acemiler</A></font></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A HREF="//www.tavsiyeediyorum.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.tavsiyeediyorum.com"><font face="Arial" size="1">Tavsiye Ediyorum</A></FONT></TD>
+</TR>
+
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A HREF="//www.herturlu.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.herturlu.net"><FONT FACE="Arial" SIZE="1">Hertürlü.net</FONT></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A HREF="//www.kemalyucesoy.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.kemalyucesoy.com"><font face="Arial" size="1">Bel Fıtığı</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A HREF="//www.otogazete.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.otogazete.com"><font face="Arial" size="1">Oto Gazete.com</font></A></TD>
+</TR>
+
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A HREF="//www.tvyayinakisi.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.tvyayinakisi.com"><font face="Arial" size="1">Tv Yayın Akışı</FONT></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A HREF="//www.dogrutercih.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.dogrutercih.com"><font face="Arial" size="1">Doğru Tercih</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A HREF="//hotel-otel.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//hotel-otel.com"><font face="Arial" size="1">Hotel Otel</font></A></TD>
+</TR>
+
+<TR>
+<TD align=left width=15 bgColor=white height=20><A href="//www.bilgisayardershanesi.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.bilgisayardershanesi.com"><font face="Arial" size="1">Pc Dershanesi</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.sanalkurs.net"><IMG BORDER="0" SRC="win.gif" width="15" height="15"></font></A></TD>
+<TD align=left width=105 bgColor=white height=20><A  href="//www.sanalkurs.net"><font face="Arial" size="1">Sanal Kurs</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.neleryokki.com/linkler.htm"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=106 bgColor=white height=20><A href="//www.neleryokki.com/linkler.htm"><font face="Arial" size="1">Neler Yok ki</font></A></TD>
+</TR>
+
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A HREF="//www.ruyalar.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.ruyalar.com"><font face="Arial" size="1">Rüyalar </FONT></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A HREF="//www.kilovermek.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.kilovermek.com"><font face="Arial" size="1">Kilo Vermek</FONT></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A HREF="//www.sitemedya.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A HREF="//www.sitemedya.com"><font face="Arial" size="1">Site Medya</FONT></A></TD>
+</TR>
+
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left"><a href="//teknoartbilisim.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><a href="//teknoartbilisim.com"><font face="Arial" size="1">Teknoart Bilişim</font></a></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.hazirportal.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+ <TD align=left width=105 bgColor=white height=20><A href="//www.hazirportal.com/"><font face="Arial" size="1">Hazır Portal</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.bilgitoplumu.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.bilgitoplumu.gov.tr"><font face="Arial" size="1">Bilgi Toplumu</font></A></TD>
+</TR>
+
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.php.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.php.net"><FONT SIZE="1" FACE="Arial">PHP.net</FONT></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.lokanta.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.lokanta.com"><FONT SIZE="1" FACE="Arial">Lokanta.com</FONT></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><a href="//www.tupbebek.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><a href="//www.tupbebek.com"><FONT SIZE="1" FACE="Arial">Tüp Bebek.com</FONT></a></TD>
+</TR>
+
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.hukukturk.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.hukukturk.com"><font face="Arial" size="1">Hukuk Türk</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.turkhukuksitesi.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.turkhukuksitesi.com"><font face="Arial" size="1">Türk Hukuk</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.hukukrehberi.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.hukukrehberi.net"><font face="Arial" size="1">Hukuk Rehberi</font></A></TD>
+</TR>
+ 
+<tr>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.irfanview.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.irfanview.com"><font face="Arial" size="1">İrfan View</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.turkbul.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.turkbul.com"><font face="Arial" size="1">Türk Bul</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.gop.edu.tr/linkler/100link.htm"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.gop.edu.tr/linkler/100link.htm"><font face="Arial" size="1">100 Faydalı Site</font></A></TD>
+</tr>
+              
+<tr>
+<TD width=15 bgColor=white height=15  align=left><A href="//www.yildirimalkan.xyz"><IMG BORDER="0"<IMG BORDER="0" SRC="favicon.png" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.yildirimalkan.xyz"><font face="Arial" size="1">Web Sitemiz</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="LEFT"><A href="//osym.gov.tr/Default.aspx?F6E10F8892433CFFAAF6AA849816B2EF4376734BED947CDE"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//osym.gov.tr/Default.aspx?F6E10F8892433CFFAAF6AA849816B2EF4376734BED947CDE"><font face="Arial" size="1">Portal ÖSYM</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.marmaraweb.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.marmaraweb.com"><font face="Arial" size="1">Marmaraweb.com</font></A></TD>
+</tr>
+              
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left"><a href="//www.ataturktoday.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><a href="//www.ataturktoday.com"><FONT SIZE="1" FACE="Arial">Atatürk Bugün</font></a></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><a href="//www.ttk.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><a href="//www.ttk.gov.tr"><FONT SIZE="1" FACE="Arial">Türk Tarih Kurumu</font></a></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><a href="//www.turkdunya.de"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><a href="//www.turkdunya.de"><FONT SIZE="1" FACE="Arial">Türk Dünya</font></a></TD>
+</TR>
+
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.hukukcu.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.hukukcu.com"><font face="Arial" size="1">Hukukcu.com</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.hukuki.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.hukuki.net"><font face="Arial" size="1">Hukuki.net</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left"><A href="//www.hukuksozlugu.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20><A href="//www.hukuksozlugu.net"><font face="Arial" size="1">Hukuk Sözlüğü</font></A></TD>
+</TR>
+
+<TR>
+<TD width=15 bgColor=white height=15 ALIGN="left">
+<A href="//www.yenibiris.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20>
+<A href="//www.yenibiris.com"><font face="Arial" size="1">Yeni Bir İş</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left">
+<A href="//www.diyetisyenim.org"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20>
+<A href="//www.diyetisyenim.org"><font face="Arial" size="1">Diyetisyenim</font></A></TD>
+<TD width=15 bgColor=white height=15 ALIGN="left">
+<A href="https://www.ihs.com.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></A></TD>
+<TD align=left width=105 bgColor=white height=20>
+<A href="https://www.ihs.com.tr"><font face="Arial" size="1">IHS Telekom</font></A></TD>
+</TR>
+
+<tr>
+<TD align=left width=15 bgColor=white height=15>
+<A HREF="////bebek.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20>
+<A  HREF="////bebek.com"><FONT SIZE="1" FACE="Arial">Bebek</FONT></A></TD>
+<TD align=left width=15 bgColor=white height=15>
+<A HREF="//www.memurlar.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20>
+<a href="//www.memurlar.net"><FONT SIZE="1" FACE="Arial">Memurlar.net</font></a></TD>
+<TD align=left width=15 bgColor=white height=15>
+<A HREF="//tr.cooltext.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20>
+<a href="//tr.cooltext.com"><FONT SIZE="1" FACE="Arial">Cool Text</font></a></TD>
+</tr>
+
+</tr>
+<TD align=left width=15 bgColor=white height=15>
+<A HREF="//www.memurhaber.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20>
+<A  HREF="//www.memurhaber.com"><FONT SIZE="1" FACE="Arial">Memur Haber</FONT></A></TD>
+<TD align=left width=15 bgColor=white height=15>
+<A HREF="//memurunyeri.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20>
+<a href="//memurunyeri.com" ><FONT SIZE="1" FACE="Arial">Memur'un Yeri</font></a></TD>
+<TD align=left width=15 bgColor=white height=15>
+<A HREF="//www.memurlarnet.biz"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20>
+<a href="//www.memurlarnet.biz"><FONT SIZE="1" FACE="Arial">Memurlar.biz</font></a></TD>
+</tr>
+
+<tr>
+<TD align=left width=15 bgColor=white height=15>
+<A HREF="//www.memuruz.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20>
+<A  HREF="//www.memuruz.net"><FONT SIZE="1" FACE="Arial">Memuruz.net</FONT></A></TD>
+<TD align=left width=15 bgColor=white height=15>
+<A HREF="//www.memurlar.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20>
+<a href="//www.memurlar.net"><FONT SIZE="1" FACE="Arial">Memurlar.net</font></a></TD>
+<TD align=left width=15 bgColor=white height=15>
+<A HREF="//www.memurum.biz"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=20>
+<a href="//www.memurum.biz"><FONT SIZE="1" FACE="Arial">Memurum.biz</font></a></TD>
+</tr>
+
+<tr>
+<TD borderColor=white width=360 bgColor=white colSpan=6 height=95 ALIGN="center" BORDER=0>
+<a href="https://turkuluyurekleryy.blogspot.com.tr/2016/12/istiklal-mars.html"><IMG BORDER=0 SRC="istiklalmarsi.gif" WIDTH=360 HEIGHT=95 alt="İstiklal Marşımızı okumak için tıklayabilirsiniz..."></a>
+</td>
+</tr>
+
+<tr>
+<TD align=left width=15 bgColor=white height=15><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></TD>
+<TD align=left width=105 bgColor=white height=15>
+<input onClick="scrollTo(0,0);" class="select" TYPE="button" VALUE="En Başa Git" STYLE="border:1px solid white; padding:1; font-size: 8pt; color: #CC0066; text-decoration:blink; font-family:Arial; font-weight:bold; background-color:white"></TD>
+<TD align=left width=15 bgColor=white height=15>
+<A HREF="basari.jpg"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></a></TD>
+<TD align=left width=105 bgColor=white height=15>
+<A HREF="basari.jpg"><FONT FACE="MS Mincho"><FONT SIZE="2">B<FONT COLOR="#FF00FF">a</FONT><FONT COLOR="#339933">ş</FONT><FONT COLOR="#FF0099">a</FONT><FONT COLOR="#000080">r</FONT><FONT SIZE="2" COLOR="#FF00FF">ı</FONT></A>
+<FONT SIZE="2" COLOR="red">n</FONT><FONT SIZE="2" COLOR="#3366CC">ı</FONT><FONT SIZE="2" COLOR="#FF6600">n</FONT><FONT SIZE="2" COLOR="#000080">
+</FONT><FONT SIZE="2" COLOR="#FF0099">S</FONT><FONT SIZE="2" COLOR="#008000">ı</FONT><FONT SIZE="2" COLOR="red">r</FONT><FONT SIZE="2" COLOR="#008000">r</FONT><FONT SIZE="2" COLOR="#FF00FF">ı</FONT></A></B></TD>       
+<TD align=left width=15 bgColor=white height=15><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></TD>
+<TD align=left width=105 bgColor=white height=15>
+<input onClick="scrollTo(0,650);" class="select"  TYPE="button" VALUE="Sayfa Ortası" STYLE="border:1px solid white; padding:1; color: #CC0066; font-size: 8pt; font-family:Arial; text-decoration:blink; font-weight:bold; background-color:white"></TD>
+</TR> 
+</TBODY></TABLE></center>
+</div>
+</TD></TR></TBODY></TABLE></TD>
+
+<TD vAlign=top width=339 bgColor=white height=251>
+      <TABLE borderColor=white height=130 cellSpacing=0 
+      borderColorDark=#99ccff cellPadding=0 width=1 borderColorLight=#0099ff 
+      border=0 frame=vsides>
+<TBODY>
+<TR>
+<TD borderColor=#0099ff borderColorLight=#0099ff align=middle width=300 bgColor=white borderColorDark=#99ccff colSpan=2 height=20>
+<div align="center">
+<TABLE height=220 cellSpacing=0 borderColorDark=#99CCFF cellPadding=0 width=326 borderColorLight=#0099FF border=0 bordercolor="#33CCFF" BGCOLOR="white" STYLE="border-collapse: collapse">
+<TBODY>
+<td valign=top borderColorLight=white align=center width=165 bgColor=white borderColorDark=white height=131 COLSPAN="2">
+<!--WEBBOT BOT="HTMLMarkup" STARTSPAN -->
+<embed src="guguklum.swf" bgcolor=white widht=150 height=150 align=center Valign=top></embed>
+<!--WEBBOT BOT="HTMLMarkup" ENDSPAN -->
+<th borderColorLight=white width=103 bgColor=white borderColorDark=white nowrap HEIGHT="215" VALIGN="top" BACKGROUNDCOLOR="white" ROWSPAN="4">
+<!--WEBBOT BOT="HTMLMarkup" STARTSPAN -->     
+<table width="130" border="0" cellspacing="0" cellpadding="3" class=box_border>
+<td bgcolor="white" width="130" Valign="middle" align="center" bordercolorlight="#0099FF" bordercolordark="#000080" 
+    bordercolor="#000080" style="border-left-style: solid; border-left-width:1; border-right-style: solid; border-right-width:2; 
+    border-top-style: solid; border-top-width:2; border-bottom-style: solid; border-bottom-width:2; padding:2">    
+<select name=select onChange="if (this.options[this.selectedIndex].value != 'null') { window.open(this.options[this.selectedIndex].value,'_new') }" size=1 STYLE="padding:0; font-family: Verdana; font-size: 8pt; color:#000080; background-color:white;width:130; height:20"> 	
+	<option selected value="null">Gazeteler</option>
+	<option value="null">==========</option>
+                    <option value="null">Gazete Seçin</option>
+                    <option value="null">==========</option>
+	<option value="//sozcu.com.tr/">Sözcü</option>
+	<option value="//www.cumhuriyet.com.tr/?kn=5">Cumhuriyet</option>
+	<option value="//www.ilk-kursun.com/">İlk Kurşun</option>
+	<option value="//www.odatv.com/">OdaTv</option>
+	<option value="//haber.sol.org.tr/">Sol</option>
+	<option value="//kemalistler.org/">Kemalistler</option>
+	<option value="//www.ulusalkanal.com.tr/">Ulusal Kanal</option>
+	<option value="//www.yurtgazetesi.com.tr/">Yurt</option>
+	<option value="//www.aydinlikgazete.com/">Aydınlık</option>
+	<option value="//www.ulusalpost.com/">Ulusal Post</option>
+	<option value="//www.yenicaggazetesi.com.tr/">Yeni Çağ</option>
+	<option value="//haberguncel.blogspot.com.tr/">Haber Güncel</option>
+	<option value="//www.haberinyeri.net/">Haberin Yeri</option>
+	<option value="//www.guncelmeydan.com/">Güncel Meydan</option>
+	<option value="//www.gercekgundem.com/">Gerçek Gündem</option>
+	<option value="//www.egedesonsoz.com/">Ege'de Son Söz</option>
+	<option value="//www.hurriyet.com.tr/">Hürriyet</option>	
+	<option value="//www.fotomac.com.tr/">Fotomaç</option>
+	<option value="https://www.fotospor.com/">Fotospor</option>
+	<option value="//www.fanatik.com.tr/">Fanatik</option>
+	<option value="//amkspor.com/">AMK</option>
+</select>
+
+<select name=select onChange="if (this.options[this.selectedIndex].value != 'null') { window.open(this.options[this.selectedIndex].value,'_new') }" size=1  
+STYLE="padding:0; font-family: Verdana; font-size: 8pt; color:#000080; background-color:white;width: 130; height: 20"> 
+
+<option selected value="null">Arama Motorları</option>
+<option value="null">==========</option>
+<option value="null">Arama Motoru Seçin</option>
+<option value="null">==========</option>
+<option value=//www.google.com.tr/>Google</option>
+
+<option value=//www.bing.com/>Bing</option>
+
+<option value=//www.yandex.com.tr/>Yandex</option>
+
+<option value=//www.yahoo.com/>Yahoo!</option>
+
+<option value=//www.arama.com/>Arama.com</option>
+
+</select>
+
+<select name=select onChange="if (this.options[this.selectedIndex].value != 'null') 
+{ window.open(this.options[this.selectedIndex].value,'_new') }" size=1 
+STYLE="padding:0; font-family: Verdana; font-size: 8pt; color:#000080; background-color:white;width: 130; height: 20"> 
+
+<option selected value="null">Televizyonlar</option>
+<option value="null">==========</option>
+                    <option value="null">Televizyon Seçin</option>
+                    <option value="null">==========</option>
+			<option value=//www.hakanaygun.com/canli>Halk Tv</option>
+			<option value=//www.ulusalkanal.com.tr/canliyayin/canliyayin.php>Ulusal Kanal</option>
+			<option value=//www.fox.com.tr/canli-yayinUlusal>Fox Tv</option>
+			<option value=//baristv.com/canl%C4%B1-tv.html>Barış Tv</option>
+			<option value=//www.cemtv.com.tr/canli.asp>Cem Tv</option>
+			<option value=//www.yoltv.eu/>Yol Tv</option>
+			<option value=https://www.kanald.com.tr/canli-yayin>Kanal D</option>
+            <option value=//www.ekinturk.com/>Ekin TV</option>
+            <option value=//www.showtv.com.tr/canli-yayin/showtv>Show TV</option>
+            <option value=//www.olaytv.com.tr/canli-yayin>Olay TV</option>
+            <option value=//www.krttv.com.tr/canli.php>Krt Karadeniz TV</option>
+			<option value=//www.ntvspor.net/canliyayin>NTV Spor</option>
+			<option value=//www.mavikaradeniztv.com.tr/?Bid=1148971/Canl>Mavi Karadeniz Tv</option>
+
+			</select>
+<select name=select onChange="if (this.options[this.selectedIndex].value != 'null') { window.open(this.options[this.selectedIndex].value,'_new') }" size=1 
+STYLE="padding:0; font-family: Verdana; font-size: 8pt; color:#000080; background-color:white;width: 130; height: 20"> 
+
+<option selected value="null">Devlet Kurumları</option>
+<option value="null">==========</option>
+                    <option value="null">Kurum Seçin</option>
+                    <option value="null">==========</option>
+<option value="//www.adalet.gov.tr/">Adalet Bakanlığı</option>
+
+<option value="//www.bagkur.gov.tr/">Bağ-kur</option>
+
+<option value="//www.basbakanlik.gov.tr">Başbakanlık</option>
+
+<option value="//www.cankaya.gov.tr/">Cumhurbaşkanlığı</option>
+
+<option value="//www.darphane.gov.tr/">Darphane</option>
+
+<option value="//www.dzkk.tsk.mil.tr/">Deniz Kuvvetleri</option>
+
+<option value="//www.devtiyatro.gov.tr/">Devlet Tiyatrosu</option>
+
+<option value="//www.die.gov.tr/">Devlet İstatistik Enstütüsü</option>
+
+<option value="//www.mfa.gov.tr/Turkce/default.htm">Dışişleri Bakanlığı</option>
+
+<option value="//www.foreigntrade.gov.tr/">Dış Ticaret Müsteşarlığı</option>
+
+<option value="//www.dpt.gov.tr/">Devlet Planlama Teşkilatı</option>
+
+<option value="//www.emekli.gov.tr/">Emekli Sandığı</option>
+
+<option value="//www.egm.gov.tr/">Emniyet Genel Müdürlüğü</option>
+
+<option value="//www.tsk.tr/">Genel Kurmay</option>
+
+<option value="//www.gumruk.gov.tr">Gümrük</option>
+
+<option value="//www.hvkk.tsk.mil.tr/">Hava Kuvvetleri</option>
+
+<option value="//www.icisleri.gov.tr">İç İşleri Bakanlığı</option>
+
+<option value="//www.treasury.gov.tr/">Hazine</option>
+
+<option value="//www.jandarma.tsk.mil.tr/">Jandarma Genel Komutanlığı</option>
+
+<option value="//www.kkk.tsk.mil.tr/">Kara Kuvvetleri</option>
+
+<option value="//www.kultur.gov.tr/">Kültür Bakanlığı</option>
+
+<option value="//www.maliye.gov.tr/">Maliye Bakanlığı</option>
+
+<option value="//www.tcmb.gov.tr/">Merkez Bankası</option>
+
+<option value="//www.meb.gov.tr/">Milli Eğitim Bakanlığı</option>
+
+<option value="//www.mkutup.gov.tr/">Milli Kütüphane</option>
+
+<option value="//www.asalmsb.gov.tr/">Milli Savunma</option>
+
+<option value="//www.orman.gov.tr/">Orman Bakanlığı</option>
+
+<option value="//www.saglik.gov.tr/">Sağlık Bakanlığı</option>
+
+<option value="//www.tsk.mil.tr/sahil/index.htm">Sahil Güvenlik</option>
+
+<option value="//www.sanayi.gov.tr/">Sanayi ve Ticaret</option>
+
+<option value="//www.sgk.gov.tr/">Sosyal Güvenlik Kurumu</option>
+
+<option value="//www.tbmm.gov.tr/">Türkiye Büyük Millet Meclisi</option>
+
+<option value="//www.turizm.gov.tr">Turizm Bakanlığı</option>
+
+<option value="//www.ubak.com.tr/">Ulaştırma Bakanlığı</option>
+
+<option value="//www.yok.gov.tr/">Yüksek Öğretim Kurumu</option>
+
+</select>
+
+<select name=select onChange="if (this.options[this.selectedIndex].value != 'null') { window.open(this.options[this.selectedIndex].value,'_new') }" size=1 
+STYLE="padding:0; font-family: Verdana; font-size: 8pt; color:#000080; background-color:white;width: 130; height: 20">  
+
+
+<option selected value="null">Üniversiteler</option>
+<option value="null">==========</option>
+                    <option value="null">Üniversite Seçin</option>
+                    <option value="null">==========</option>
+
+<option value=//www.metu.edu.tr/>Ortadoğu Teknik Üniversitesi</option>
+
+<option value=//www.itu.edu.tr/>İstanbul Teknik Üniversitesi</option>
+
+<option value=//www.boun.edu.tr/>Boğaziçi Üniversitesi</option>
+
+<option value=//www.yildiz.edu.tr/>Yıldız Teknik Üniversitesi</option>
+
+<option value=//www.hun.edu.tr/>Hacettepe Üniversitesi</option>
+
+<option value=//www.ege.edu.tr/>Ege Üniversitesi</option>
+
+<option value=//www.deu.edu.tr/>Dokuz Eylül Üniversitesi</option>
+
+<option value=//www.iyte.edu.tr/>İzmir Yüksek Teknoloji Enstütüsü</option>
+
+<option value=//www.ieu.edu.tr/>İzmir Ekonomi Üniversitesi</option>
+
+<option value=//www.adu.edu.tr/>Adnan Menderes Üniversitesi</option>
+
+<option value=//www.bayar.edu.tr/>Celal Bayar Üniversitesi</option>
+
+<option value=//www.ibu.edu.tr/>Abant İzzet Baysal Üniversitesi</option>
+
+<option value=//www.yesevi.edu.tr/>Ahmet Yesevi Üniversitesi</option>
+
+<option value=//www.akdeniz.edu.tr/>Akdeniz Üniversitesi</option>
+
+<option value=//www.anadolu.edu.tr/>Anadolu Üniversitesi</option>
+
+<option value=//www.ankara.edu.tr/>Ankara Üniversitesi</option>
+
+<option value=//www.atauni.edu.tr/>Atatürk Üniversitesi</option>
+
+<option value=//www.atilim.edu.tr/>Atılım Üniversitesi</option>
+
+<option value=//www.balikesir.edu.tr/>Balıkesir Üniversitesi</option>
+
+<option value=//www.baskent.edu.tr/>Başkent Üniversitesi</option>
+
+<option value=//www.beyu.edu.tr/>Beykent Üniversitesi</option>
+
+<option value=//www.ibun.edu.tr/>Bilgi Üniversitesi</option>
+
+<option value=//www.bilkent.edu.tr/>Bilkent Üniversitesi</option>
+
+<option value=//www.cumhuriyet.edu.tr/>Cumhuriyet Üniversitesi</option>
+
+<option value=//www.cag.edu.tr/>Çağ Üniversitesi</option>
+
+<option value=//www.cankaya.edu.tr/>Çankaya Üniversitesi</option>
+
+<option value=//www.cu.edu.tr/>Çukurova Üniversitesi</option>
+
+<option value=//www.dho.edu.tr/>Deniz Harp Okulu</option>
+
+<option value=//www.dicle.edu.tr/>Dicle Üniversitesi</option>
+
+<option value=//www.emu.edu.tr/>Doğu Akdeniz Üniversitesi</option>
+
+<option value=//www.dogus.edu.tr/>Doğuş Üniversitesi</option>
+
+<option value=//www.dumlupinar.edu.tr/>Dumlupınar Üniversitesi</option>
+
+<option value=//www.erciyes.edu.tr/>Erciyes Üniversitesi</option>
+
+<option value=//www.fatih.edu.tr/>Fatih Üniversitesi</option>
+
+<option value=//www.firat.edu.tr/>Fırat Üniversitesi</option>
+
+<option value=//www.gsu.edu.tr/>Galatasaray Üniversitesi</option>
+
+<option value=//www.gazi.edu.tr/>Gazi Üniversitesi</option>
+
+<option value=//www.gantep.edu.tr/>Gaziantep Üniversitesi</option>
+
+<option value=//www.gop.edu.tr/>Gaziosmanpaşa ÜniversiteSİ</option>
+
+<option value=//www.gata.edu.tr/>Gülhane Askeri Tıp Akademisi</option>
+
+<option value=//www.harran.edu.tr/>Harran Üniversitesi</option>
+
+<option value=//www.hho.edu.tr/>Hava Harp Okulu</option>
+
+<option value=//www.isikun.edu.tr/>Işık Üniversitesi</option>
+
+<option value=//www.inonu.edu.tr/>İnönü Üniversitesi</option>
+
+<option value=//www.istanbul.edu.tr/>İstanbul Üniversitesi</option>
+
+<option value=//www.khas.edu.tr/>Kadir Has Üniversitesi</option>
+
+<option value=//www.kafkas.edu.tr/>Kafkas Üniversitesi</option>
+
+<option value=//www.kho.edu.tr/>Kara Harp Okulu</option>
+
+<option value=//www.ktu.edu.tr/>Karadeniz Teknik Üniversitesi</option>
+
+<option value=//www.karaelmas.edu.tr/>Karaelmas Üniversitesi</option>
+
+<option value=//www.kku.edu.tr/>Kırıkkale Üniversitesi</option>
+
+<option value=//www.kou.edu.tr/>Kocaeli Üniversitesi</option>
+
+<option value=//www.ku.edu.tr/>Koç Üniversitesi</option>
+
+<option value=//www.kultur.edu.tr/>Kültür Üniversitesi</option>
+
+<option value=//www.marun.edu.tr/>Marmara Üniversitesi</option>
+
+<option value=//www.mersin.edu.tr/>Mersin Üniversitesi</option>
+
+<option value=//www.msu.edu.tr/>Mimar Sinan Üniversitesi</option>
+
+<option value=//www.mu.edu.tr/>Muğla Üniversitesi</option>
+
+<option value=//www.mku.edu.tr/>Mustafa Kemal Üniversitesi</option>
+
+<option value=//www.nigde.edu.tr/>Niğde Üniversitesi</option>
+
+<option value=//www.omu.edu.tr/>19 Mayıs Üniversitesi</option>
+
+<option value=//www.cau.edu.tr/>18 Mart Üniversitesi</option>
+
+<option value=//www.ogu.edu.tr/>Osman Gazi Üniversitesi</option>
+
+<option value=//www.pamukkale.edu.tr/>Pamukkale Üniversitesi</option>
+
+<option value=//www.polakd.edu.tr/>Polis Akademisi Üniversitesi</option>
+
+<option value=//www.sabanciuniv.edu.tr/>Sabancı Üniversitesi</option>
+
+<option value=//www.sau.edu.tr/>Sakarya Üniversitesi</option>
+
+<option value=//www.selcuk.edu.tr/>Selçuk Üniversitesi</option>
+
+<option value=//www.sdu.edu.tr/>Süleyman Demirel Üniversitesi</option>
+
+<option value=//www.ksu.edu.tr/>Sütçü İmam Üniversitesi</option>
+
+<option value=//www.trakya.edu.tr/>Trakya Üniversitesi</option>
+
+<option value=//www.uludag.edu.tr/>Uludağ Üniversitesi</option>
+
+<option value=//ns.iau.edu.tr/>Amerikan Üniversitesi</option>
+
+<option value=//www.ydu.edu.tr/>Yakın Doğu Üniversitesi</option>
+
+<option value=//www.yeditepe.edu.tr/>Yedi Tepe Üniversitesi</option>
+
+<option value=//www.yyu.edu.tr/>Yüzüncü Yıl Üniversitesi</option>
+
+</select>
+<select name=select onChange="if (this.options[this.selectedIndex].value != 'null') { window.open(this.options[this.selectedIndex].value,'_new') }" size=1 
+STYLE="padding:0; font-family: Verdana; font-size: 8pt; color:#000080; background-color:white;width: 130; height: 20"> 
+
+<option selected value="null">Bankalar</option>
+<option value="null">==========</option>
+                    <option value="null">Banka Seçin</option>
+                    <option value="null">==========</option>
+
+<option value=//www.akbank.com.tr/>Akbank </option>
+
+<option value=//www.abank.com.tr/>Alternatif Bank</option>
+
+<option value=//www.anadolubank.com.tr/>Anadolubank</option>
+
+<option value=//www.denizbank.com.tr/>Denizbank</option>
+
+<option value=//www.finansbank.com.tr/>Finans Bank </option>
+
+<option value=//www.ilbank.gov.tr/>İller Bankası</option>
+
+<option value=//www.ingbank.com.tr/>ING Bank </option>
+
+<option value=//www.sekerbank.com.tr/>Şekerbank</option>
+
+<option value=//www.teb.com.tr/>Türk Ekonomi Bankası </option>
+
+<option value=//www.tcmb.gov.tr/>T.C. Merkez Bankası </option>
+
+<option value=//www.ziraat.com.tr/>Ziraat Bankası</option>
+
+<option value=//www.garanti.com.tr/>Garanti Bankası </option>
+
+<option value=//www.halkbank.com.tr/>Halk Bank </option>
+
+<option value=//www.isbank.com.tr/>İş Bankası </option>
+
+<option value=//www.vakifbank.com.tr/>Vakıfbank</option>
+
+<option value=//www.ykb.com/>Yapı ve Kredi Bankası </option>
+</select>
+
+<select name=select onChange="if (this.options[this.selectedIndex].value != 'null') { window.open(this.options[this.selectedIndex].value,'_new') }" size=1 
+STYLE="padding:0; font-family: Verdana; font-size: 8pt; color:#000080; background-color:white;width: 130; height: 20"> 
+ 
+<option selected value="null">Futbol Kulüpleri</option>
+<option value="null">==========</option>
+                    <option value="null">Kulüp Seçin</option>
+                    <option value="null">==========</option>
+
+					<option value="//www.tff.org/default.aspx?pageID=95">Milli Takım</option>
+					
+                    <option value="//www.bjk.com.tr">Besiktas JK</option>
+					
+                    <option value="//www.galatasaray.org/">Galatasaray </option>
+                   
+                    <option value="//www.fenerbahce.org">Fenerbahçe</option>
+                    
+                    <option value="//www.trabzonspor.org.tr">Trabzonspor</option>
+                    
+                    <option value="//www.bursaspor.org.tr/">Bursaspor</option>
+                    
+                    <option value="//www.konyaspor.org.tr">Konyaspor </option>
+                   
+                    <option value="//www.malatyaspor.org.tr">Malatyaspor</option>
+                    
+                    <option value="//www.genclerbirligi.org.tr"> Gençlerbirligi</option>
+                   
+					<option value="//www.gaziantepspor.org.tr">Gaziantepspor</option>
+					
+                    <option value="//www.samsunspor.org.tr">Samsunspor</option>
+                    
+                    <option value="//www.kayserispor.org.tr">Kayserispor</option>
+					
+					
+                    <option value="null">==========</option>
+					
+                    <option value="null">İTALYA</option>
+					
+					<option value="null">==========</option>
+					
+                    <option value="//www.acmilan.com">AC Milan</option>
+					
+                    <option value="//www.juventus.it">Juventus</option>
+				
+                    <option value="//www.inter.it">inter</option>
+					
+                    <option value="//www.asromacalcio.it">Roma</option>
+					
+                    <option value="null">==========</option>
+					<option value="null">iSPANYA</option>
+					<option value="null">==========</option>
+				    <option value="https://www.fcbarcelona.com/">FC Barcelona</option>
+					<option value="//www.realmadrid.com">Real Madrid</option>
+					<option value="//www.atleticodemadrid.com/">Atletico Madrid</option>
+					 <option value="//www.valenciacf.es">CF Valencia</option>
+					
+                    <option value="null">==========</option>
+                    <option value="null">ALMANYA</option>
+                    <option value="null">==========</option>
+                    <option value="//www.fcbayern.t-com.de">FC Bayern Münich</option>
+					<option value="//www.bvb.de/">Borussia Dortmund</option>
+					
+                    <option value="//www.bayer04.de">Bayer Leverkusen</option>
+                    
+                    <option value="//www.schalke04.de">FC Schalke 04</option>
+
+                    <option value="//www.vfb-stuttgart.de">VFB Stuttgart</option>
+					
+                    
+                    <option value="null">==========</option>
+					
+                    <option value="null">FRANSA</option>
+                    
+                    <option value="null">==========</option>
+					
+                    <option value="//www.asm-foot.mc">Monaco</option>
+					
+                    <option value="//www.psg.fr">Paris Saint German</option>
+                    
+                    <option value="//www.olympiquedemarseille.com"> Olympique Marseille</option>
+					<option value="//www.olweb.fr/en/"> Olympique Lyon</option>
+                   
+                   <option value="null">==========</option>
+				   <option value="null">iNGiLTERE</option>
+                   <option value="null">==========</option>
+				   
+                    <option value="//www.chelseafc.com">Chelsea</option>
+					
+                    <option value="//www.manutd.com">Manchester United</option>
+					<option value="//www.mancity.com/">Manchester City</option>
+                    
+                    <option value="//www.arsenal.com">Arsenal</option>
+					<option value="//www.tottenhamhotspur.com/">Tothenham</option>
+					<option value="//www.whufc.com/">Westham</option>
+					
+					
+                    <option value="null">==========</option>
+					
+                   <option value="null">HOLLANDA</option>
+				   
+                   <option value="null">==========</option>
+				   
+                    <option value="//www.psv.nl">PSV Eindhoven</option>
+					
+                    <option value="//www.ajax.nl">Ajax</option>
+					
+                    <option value="//www.feyenoord.nl/">Feyenoord Rotterdam</option>
+                    
+					</SELECT>
+<select name=select onChange="if (this.options[this.selectedIndex].value != 'null') { window.open(this.options[this.selectedIndex].value,'_new') }" size=1 
+STYLE="padding:0; font-family: Verdana; font-size: 8pt; color:#000080; background-color:white;width: 130; height: 20"> 
+
+						<option selected value="null">Mühendis Odaları</option>
+						<option value="null">==========</option>
+                    <option value="null">Oda Seçin</option>
+                    <option value="null">==========</option>
+						
+                          <option value=//www.tmmob.org.tr/>TMMOB</option>
+						  
+                          <option value=//www.cmo.org.tr/>Çevre Mühendisleri Odası</option>
+						  
+                          <option value=//www.emo.org.tr/>Elektrik Mühendisleri Odası</option>
+                          
+                          <option value=//www.gmo.org.tr/>Gemi Mühendisleri Odası</option>
+						  
+                          <option value=//www.gidamo.org.tr/>Gıda Mühendisleri Odası</option>
+                          
+                          <option value=//www.hkmo.org.tr/>Harita ve Kadastro Mühendisleri Odası</option>
+						  
+                          <option value=//www.imo.org.tr/>İnşaat Mühendisleri Odası</option>
+						  
+                          <option value=//www.jeofizik.org.tr/>Jeofizik Mühendisleri Odası</option>
+						  
+                          <option value=//www.jmo.org.tr/>Jeoloji Mühendisleri Odası</option>
+                          
+						  <option value=//www.kmo.org.tr/>Kimya Mühendisleri Odası</option>
+						  
+                          <option value=//www.mining-eng.org.tr/>Maden Mühendisleri Odası</option>
+						  
+                          <option value=//www.mmo.org.tr/>Makina Mühendisleri Odası</option>
+						  
+                          <option value=//www.metalurji.org.tr/>Metalurji Mühendisleri Odası</option>
+						  
+                          <option value=//www.mimarlarodasi.org.tr/>Mimarlar Odası</option>
+						  
+                          <option value=//www.pmo.org.tr/>Petrol Mühendisleri Odası</option>
+						  
+                          <option value=//www.spo.org.tr/>Şehir Plancıları Odası</option>
+						  
+                          <option value=//www.tmo.org.tr/>Tekstil Mühendisleri Odası</option>
+						  
+                          <option value=//www.tmmobzmo.org.tr/>Ziraat Mühendisleri Odası</option>
+						  
+                        </select>
+						
+						<select name=select onChange="if (this.options[this.selectedIndex].value != 'null') { window.open(this.options[this.selectedIndex].value,'_new') }" size=1 
+STYLE="padding:0; font-family: Verdana; font-size: 8pt; color:#000080; background-color:white;width:130; height:20"> 
+
+<option value="null">TEDAŞ Şirketleri</option>
+<option value="null">==========</option>
+<option value="null">Koordinatörlükler</option>
+<option value="null">==========</option>
+
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_akdeniz>Akdeniz Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_aras>Aras Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_baskent>Başkent Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_bogazici>Boğaziçi Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_ayedas>AYEDAŞ Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_camlibel>Çamlıbel Bölge Koordinatörlüğü</OPTION>
+ <OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_coruh>Çoruh Bölge Koordinatörlüğü</OPTION>
+ <OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_dicle>Dicle Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_firat>Fırat Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_gediz>Gediz Bölge Koordinatörlüğü</OPTION>
+ <OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_akedas>AKEDAŞ Bölge Koordinatörlüğü</OPTION>
+ <OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_kayseri>Kayseri Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_aydem>Aydem Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_meram>Meram Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_osmangazi>Osmangazi Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_sakarya>Sakarya Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_trakya>Trakya Bölge Koordinatörlüğü</OPTION>
+ <OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_toroslar>Toroslar Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_uludag>Uludağ Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_vangolu>Vangölü Bölge Koordinatörlüğü</OPTION> 
+<OPTION value=//www.tedas.gov.tr/tedas/#tedas_koordinatorluk_yesilirmak>Yeşilırmak Bölge Koordinatörlüğü</OPTION>
+
+<option value="null">==========</option>
+<option value="null">Dağıtım Şirketleri</option>
+<option value="null">==========</option>
+<OPTION value=//www.akdenizedas.com.tr/>Akdeniz EDAŞ</OPTION> 
+<OPTION value=//www.arasedas.com/>Aras EDAŞ</OPTION> 
+<OPTION value=https://www.baskentedas.com.tr/>Başkent EDAŞ</OPTION> 
+<OPTION value=//www.bedas.com.tr/>BEDAŞ</OPTION> 
+<OPTION value=https://www.ayedas.com.tr/>AYEDAŞ</OPTION> 
+<OPTION value=https://cedas.com.tr/>Çamlıbel EDAŞ</OPTION>
+ <OPTION value=//www.coruhedas.com.tr/>Çoruh EDAŞ</OPTION>
+ <OPTION value=//www.dedas.com.tr/>Dicle EDAŞ</OPTION> 
+<OPTION value=//www.firatedas.com.tr/>Fırat EDAŞ</OPTION> 
+<OPTION value=//www.gdzelektrik.com.tr/>Gediz EDAŞ</OPTION>
+ <OPTION value=//www.akedas.com/>AKEDAŞ</OPTION>
+ <OPTION value=//www.kcetas.com.tr/>Kayseri ve Civarı Elektrik T.A.Ş.</OPTION> 
+<OPTION value=//www.admelektrik.com.tr/>ADM EDAŞ</OPTION> 
+<OPTION value=//www.meramedas.com.tr/>MEDAŞ</OPTION> 
+<OPTION value=//www.osmangaziedas.com.tr/>Osmangazi EDAŞ</OPTION> 
+<OPTION value=https://www.sedas.com/>SEDAŞ</OPTION> 
+<OPTION value=//www.tredas.com.tr/>TREDAŞ</OPTION>
+ <OPTION value=https://www.toroslaredas.com.tr>Toroslar EDAŞ</OPTION> 
+<OPTION value=//www.uedas.com.tr/>UEDAŞ</OPTION> 
+<OPTION value=//www.vedas.com.tr/>VEDAŞ</OPTION> 
+<OPTION value=//www.yesilirmakedas.com/>YEDAŞ</OPTION>
+
+<option value="null">==========</option>
+<option value="null">Perakende Şirketleri</option>
+<option value="null">==========</option>
+
+<OPTION value=//www.clkakdeniz.com/>Akdeniz EPSAŞ</OPTION> 
+<OPTION value=https://www.ayedas.com.tr/>Anadolu Yakası EPSAŞ</OPTION> 
+<OPTION value=//www.arasepas.com/>Aras EPSAŞ</OPTION> 
+<OPTION value=https://www.enerjisa.com.tr/tr/enerjisa-hakkinda/faaliyetlerimiz/satis/enerjisa-baskent-elektrik-perakende-satis>Başkent EPSAŞ</OPTION> 
+<OPTION value=//www.clkbogazici.com/>Boğaziçi EPSAŞ</OPTION> 
+<OPTION value=https://www.enerjisa.com.tr/>Enerjisa AYEPAŞ</OPTION>
+<OPTION value=//clkcamlibel.com.tr/>Çamlıbel EPSAŞ</OPTION>
+ <OPTION value=//www.coruhaksa.com/>Çoruh EPSAŞ</OPTION>
+ <OPTION value=//www.dicleepsas.com.tr/>Dicle EPSAŞ</OPTION> 
+<OPTION value=//www.firataksa.com/>Fırat EPSAŞ</OPTION> 
+<OPTION value=//www.gedizelektrik.com.tr/>Gediz EPSAŞ</OPTION>
+ <OPTION value=//www.akedas.com/>AKEPSAŞ</OPTION>
+ <OPTION value=//www.kcetas.com.tr/>Kayseri ve Civarı Elektrik T.A.Ş.</OPTION> 
+<OPTION value=//www.aydem.com/>AYDEM EPSAŞ</OPTION> 
+<OPTION value=//www.mepasenerji.com/>MEPSAŞ</OPTION> 
+<OPTION value=//www.oepsas.com.tr/>OEPSAŞ</OPTION> 
+<OPTION value=//www.sepas.com.tr/>SEPAŞ</OPTION> 
+<OPTION value=//www.trepas.com.tr/>TREPAŞ</OPTION>
+ <OPTION value=https://www.enerjisa.com.tr/tr/enerjisa-hakkinda/faaliyetlerimiz/satis/enerjisa-toroslar-elektrik-perakende-satis>Toroslar EPAŞ</OPTION> 
+<OPTION value=//clkuludag.com.tr/>UEPAŞ</OPTION> 
+<OPTION value=//www.vepsas.com.tr/>VEPSAŞ</OPTION> 
+<OPTION value=//www.yesilirmakepas.com/>YEPAŞ</OPTION>
+
+
+
+</SELECT> 
+   
+<select name=select onChange="if (this.options[this.selectedIndex].value != 'null') { window.open(this.options[this.selectedIndex].value,'_new') }" size=1 
+STYLE="padding:0; font-family: Verdana; font-size: 8pt; color:#000080; background-color:white;width:130; height:20"> 
+
+<option selected value="null">Otomobil Firmaları</option>
+<option value="null">==========</option>
+                    <option value="null">Firma Seçin</option>
+                    <option value="null">==========</option>
+
+		<OPTION value=//www.tofas.com.tr/>Tofaş</OPTION> 
+		<OPTION value=//www.tata.com.tr/>Tata</OPTION> 
+		<OPTION value=//www.protontr.com/>Proton</OPTION> 
+		<OPTION value=//www.mazda.com.tr/>Mazda</OPTION> 
+		<OPTION value=//www.nissan.com.tr/>Nissan/</OPTION> 
+        <OPTION value=//www.isuzu.com.tr/>İsuzu</OPTION> 
+        <OPTION value=//www.honda.com.tr/>Honda</OPTION> 
+        <OPTION value=//www.jeep.com.tr/>Jeep</OPTION> 
+        <OPTION value=//www.celikmotor.com/>Çelik Motor</OPTION> 
+        <OPTION value=//www.landrover.com.tr/>Land Rover/</OPTION> 
+        <OPTION value=//www.volvocars.com.tr/>Volvo</OPTION> 
+        <OPTION value=//www.saab.com.tr/>Saab</OPTION> 
+        <OPTION value=//www.alfaromeo.com.tr/>Alfa Romeo</OPTION> 
+        <OPTION value=//www.bmc.com.tr/>BMC</OPTION> 
+        <OPTION value=//www.bmw.com.tr/>BMW</OPTION> 
+        <OPTION value=//www.dacia.com.tr/>Dacia</OPTION> 
+        <OPTION value=//www.daewoo-tr.com/>Daewoo</OPTION> 
+        <OPTION value=//www.daihatsu.com.tr/>Daihatsu</OPTION> 
+        <OPTION value=//www.fiat.com.tr/>Fiat</OPTION> 
+        <OPTION value=//www.otoyol.com.tr/>Otoyol</OPTION> 
+        <OPTION value=//www.chevrolet.com.tr/>Chevrolet.</OPTION> 
+        <OPTION value=//www.audi.com.tr/>Audi</OPTION> 
+        <OPTION value=//www.temsa.com.tr/>Temsa</OPTION> 
+        <OPTION value=//www.subaru.com.tr/>Subaru</OPTION> 
+        <OPTION value=//www.kia.com.tr/>Kia</OPTION> 
+        <OPTION value=//www.mercedes.com.tr/>Mercedes</OPTION> 
+        <OPTION value=//www.citroen.com.tr/>Citroen</OPTION> 
+        <OPTION value=//www.ferrari.com.tr/>Ferrari</OPTION> 
+        <OPTION value=//www.toyotasa.com.tr/>Toyotasa</OPTION> 
+        <OPTION value=//www.skoda.com.tr/>Skoda</OPTION> 
+        <OPTION value=//www.ford.com.tr/>Ford</OPTION> 
+        <OPTION value=//www.peugeot.com.tr/>Peugeot</OPTION> 
+        <OPTION value=//www.suzuki.com.tr/>Suzuki</OPTION> 
+        <OPTION value=//www.honda.com.tr/>Honda</OPTION> 
+        <OPTION value=//www.seat.com.tr>Seat</OPTION> 
+        <OPTION value=//www.vw.com.tr>Volkswagen</OPTION> 
+		<OPTION value=//www.renault.com.tr/>Renault</OPTION> 
+        <OPTION value=//www.hyundai.com.tr/>Hyundai</OPTION> 
+        <OPTION value=//www.opel.com.tr/>Opel</OPTION>
+		</SELECT>
+
+<select name=select onChange="if (this.options[this.selectedIndex].value != 'null') { window.open(this.options[this.selectedIndex].value,'_new') }" size=1 
+STYLE="padding:0; font-family: Verdana; font-size: 8pt; color:#000080; background-color:white;width: 130; height: 20"> 
+ 
+<option selected value="null">Faydalı Linkler</option>
+<option value="null">==========</option>
+                    <option value="null">Link Seçin</option>
+                    <option value="null">==========</option>
+
+<option value=//www.turkiye.gov.tr>@-Devlet</option>
+<option value=//www.eczanebul.net/>Nöbetçi Eczaneler</option>
+<option value=//www.koeri.boun.edu.tr/scripts/sondepremler.asp>Son Depremler</option>
+<option value=//www.izmir.bel.tr/>İzmir Belediyesi</option>
+<option value=//www.izban.com.tr/>İzban</option>
+<option value=//www.izmirmetro.com.tr/>İzmir Metrosu</option>
+<option value=//www.eshot.gov.tr/>Eshot</option>
+<option value=//www.izsu.gov.tr/>İzsu</option>
+<option value=//www.izmirgaz.com.tr/>İzmir Gaz</option>
+<option value=//www.balcova.bel.tr/>Balçova Belediyesi</option>
+<option value=//www.bayrakli.bel.tr/>Bayraklı Belediyesi</option>
+<option value=//www.bornova.bel.tr/>Bornova Belediyesi</option>
+<option value=//www.buca.bel.tr/>Buca Belediyesi</option>
+<option value=//www.gaziemir.bel.tr/>Gaziemir Beledyesi</option>
+<option value=//www.karabaglar.bel.tr/>Karabağlar Belediyesi</option>
+<option value=//www.karsiyaka.bel.tr/>Karşıyaka Belediyesi</option>
+<option value=//www.konak.bel.tr/>Konak Belediyesi</option>
+<option value=//www.narlidere-bld.gov.tr/>Narlıdere Belediyesi</option>
+</SELECT>
+</center>
+</table>
+</html><!--WEBBOT BOT="HTMLMarkup" ENDSPAN -->
+
+<TR>
+<td borderColorLight=white align=left width=135 bgColor=white borderColorDark=white height=25>
+<A HREF="https://www.360tr.com/06_ankara/anitkabir/"><IMG BORDER="0" SRC="win.gif" width="15" height="15" ALT="Anıtkabir Sanal Gezinti..."></a>
+<A HREF="https://www.360tr.com/06_ankara/anitkabir/"><font face="arial" size="1">Anıtkabir360</FONT></A>
+<td borderColorLight=white align=left width=135 bgColor=white borderColorDark=white height=25>
+<A href="//www.360tr.net/17_canakkale/gelibolu"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15" alt="Çanakkale Şehitlikleri Sanal Gezintisi için tıklayabilirsiniz...">
+<A href="//www.360tr.net/17_canakkale/gelibolu"><FONT SIZE="1" FACE="Arial">Çanakkale 360</FONT></A></TD>
+
+
+</TR>
+
+<TR>
+<td borderColorLight=white align=left width=78 bgColor=white borderColorDark=white height=25>
+<A HREF="//www.360tr.net/istanbul/dolmabahce/"><IMG BORDER="0" SRC="win.gif" width="15" height="15" ALT="Dolmabahçe Sarayı Sanal Gezintisi../"></A>
+<A HREF="//www.360tr.net/istanbul/dolmabahce/"><font face="arial" size="1">Dolmabahçe360</FONT></A>
+<td borderColorLight=white align=left width=79 bgColor=white borderColorDark=white height=25>
+<A HREF="//www.360tr.com/topkapi/index.htm"><IMG BORDER="0" SRC="win.gif" width="15" height="15" ALT="Topkapı Sarayı 360 Derece Dönüşle Tek Karede...">
+<A HREF="//www.360tr.com/topkapi/index.htm"><font face="arial" size="1">Topkapı360</FONT></A>
+</tr>
+
+
+<td borderColorLight=white align=left width=79 bgColor=white borderColorDark=white height=25>
+<A HREF="//www.3dmekanlar.com/tr/ayasofya.html"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15" ALT="Ayasofya Sanal Gezinti...">
+<A HREF="//www.3dmekanlar.com/tr/ayasofya.html"><font face="arial" size="1">Ayasofya360</FONT></A>
+<td borderColorLight=white align=left width=135 bgColor=white borderColorDark=white height=25>
+<A HREF="https://www.360tr.com/35_izmir/meydan/"><IMG BORDER="0" SRC="win.gif" ALT="İzmir Konak Meydanı Sanal Gezintisi..." width="15" height="15"></A>
+<A HREF="https://www.360tr.com/35_izmir/meydan/"><font face="arial" size="1">İzmir-Konak Meydanı360</FONT></A>
+</TR>
+
+</TBODY></TABLE></div>
+
+<TABLE height=0 cellSpacing=0 borderColorDark=#99ccff cellPadding=3 
+            width=450 borderColorLight=#0099ff border=0>
+              <TBODY>
+              <TR>
+                <TD borderColorLight=#0099FF width=450 borderColorDark=#99CCFF 
+                height=10 COLSPAN="5">
+<TR>
+<TD borderColorLight=white  borderColorDark=white widht=135 height=1 BGCOLOR="white" align="left">
+<A href="//www.tedas.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.tedas.gov.tr"><font face="arial" size="1">TEDAŞ</font></A></td>
+<TD borderColorLight=white borderColorDark=white widht=135 height=1 BGCOLOR="white" align="left">
+<a href="//www.teias.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.teias.gov.tr"><font face="arial" size="1">TEİAŞ</FONT></a></td>
+<TD borderColorLight=white borderColorDark=white widht=135 height=1 BGCOLOR="white" align="left">
+<A href="//www.euas.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.euas.gov.tr"><font face="Arial" size="1">EÜAŞ</font></A></td>
+</tr>
+
+<tr>
+<TD borderColorLight=white borderColorDark=white widht=135 height=1 BGCOLOR="white" align="left">
+<a href="//www.tetas.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.tetas.gov.tr"><FONT SIZE="1" FACE="Arial">TETAŞ</font></A></td>
+<TD borderColorLight=white borderColorDark=white widht=135 height=1 BGCOLOR="white" align="left">
+<a href="//www.epdk.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.epdk.gov.tr"><FONT SIZE="1" FACE="Arial">EPDK</font></A></Td>
+<TD borderColorLight=white width=135 borderColorDark=white height=1 BGCOLOR="white" align="left">
+<A href="//www.taek.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.taek.gov.tr"><font face="arial" size="1">TAEK</font></A></td>
+</TR>
+              
+<TR>
+<TD borderColorLight=#0099FF width=135 borderColorDark=#99CCFF height=1 align="left">
+<A href="sayac_baglantilari.xls"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"><font face="arial" size="1">
+<A href="sayac_baglantilari.xls"><FONT SIZE="1" FACE="Arial">Sayaç Bağlantıları</font></A></td>
+<TD borderColorLight=#0099FF borderColorDark=#99CCFF widht=135 height=1 align="left">
+<A href="teknik_bilgiler.xls"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="teknik_bilgiler.xls"><font face="Arial" size="1">Teknik Bilgiler</font></A></td>
+<TD borderColorLight=white  borderColorDark=white widht=135 height=1 BGCOLOR="white" align="left">
+<A HREF="//www.tubitak.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A HREF="//www.tubitak.gov.tr"><font face="arial" size="1">TUBİTAK </font></A></td> 
+</tr>
+
+</TBODY></TABLE>
+
+<TABLE  cellSpacing=1 borderColorDark=#99ccff width=450 borderColorLight=#0099ff border=0>
+<TBODY>
+
+<TR>
+<iframe width="450" height="260" frameborder="0" src="//web.tv/embed/live/40367?autoplay=0&automute=0" allowfullscreen="allowfullscreen"></iframe>
+</tr>
+
+<TR>
+<TD width=135 height=20 align="left" BORDER=0  BGCOLOR="white">                  
+<A href="//www.sayfalarim.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.sayfalarim.net"><FONT SIZE="1" FACE="Arial">Sayfalarım.net</FONT></A></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">
+<A href="//www.e-sehir.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.e-sehir.com"><FONT SIZE="1" FACE="Arial">@-Şehir</FONT></a></TD>
+<TD width=135 height=20 align="left" BORDER=0  BGCOLOR="white">
+<A href="//www.tarihbilimi.org/index.html"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.tarihbilimi.org/index.html"><FONT SIZE="1" FACE="Arial">Tarih Bilimi</A></font></TD>
+</TR>
+
+<TR>
+<TD width=135 height=1 align="left" BORDER=0  BGCOLOR="white">
+<a href="//www.tuik.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15"HEIGHT="15">
+<a href="//www.tuik.gov.tr"><FONT SIZE="1" FACE="Arial">TUİK</A></FONT></TD>
+<TD align=left width=135 height=1 BORDER=0  BGCOLOR="white">               
+<a href="//www.ruyalar.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> </FONT>
+<a href="//www.ruyalar.com"><font face="Arial" size="1">Rüyalar.com</font> </a></TD>
+<TD width=135 height=1 align="left" BORDER=0  BGCOLOR="white">  
+<A href="//internettv.meb.gov.tr/dersler.asp?NO=16"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//internettv.meb.gov.tr/dersler.asp?NO=16"><FONT SIZE="1">İnternet Tv</FONT></A></TD>
+</TR>
+
+<TR>
+<TD width=135 height=20 align="left" BORDER=0  BGCOLOR="white">
+<A HREF="https://www.google.com/intl/tr/chrome/browser/?hl=tr&brand=CHMB&utm_campaign=tr&utm_source=tr-ha-emea-tr-sk&utm_medium=ha">
+<IMG BORDER="0" SRC="win.gif" width="15" height="15" ALT="Google Chrome Yükle"></A>
+<A HREF="https://www.google.com/intl/tr/chrome/browser/?hl=tr&brand=CHMB&utm_campaign=tr&utm_source=tr-ha-emea-tr-sk&utm_medium=ha">
+<font face="arial" size="1">Chrome Yükle</FONT></A>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                 
+<A href="//www.ozlusozler.org"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.ozlusozler.org"><FONT SIZE="1" FACE="Arial">Özlü Sözler</FONT></A></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                  
+<A href="//bizimsayfalar.tr.gg/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//bizimsayfalar.tr.gg/"><FONT SIZE="1" FACE="Arial">Bizim Sayfalar</FONT></A></TD>
+</TR>
+
+<TR>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">
+<A href="//www.linkciniz.tr.gg"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.linkciniz.tr.gg"><FONT SIZE="1" FACE="Arial">Linkciniz</FONT></A></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="//www.kabloturk.com/anasayfa/tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.kabloturk.com/anasayfa/tr"><FONT SIZE="1" FACE="Arial">Kablo Türk</FONT></a></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">
+<a href="//www.altavista.com" ><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.altavista.com"><FONT SIZE="1" FACE="Arial">Altavista.com</FONT></a></TD>
+</TR>
+
+<TR>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="//www2.sporx.com/futbol/superlig"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www2.sporx.com/futbol/superlig"><FONT SIZE="1" FACE="Arial">Süper Lig</FONT></a></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">
+<A HREF="//www.tdk.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">  
+<A HREF="//www.tdk.gov.tr"><FONT SIZE="1" FACE="Arial">Türk Dil Kurumu</FONT></A></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<A href="//www.herseynet.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.herseynet.com"><FONT SIZE="1" FACE="Arial">Herşeynet.com</FONT></A></TD>
+</TR>
+
+<TR>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="//www.dynamicdrive.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.dynamicdrive.com"><FONT SIZE="1" FACE="Arial">Dinamik Drive</FONT></a></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">              
+<A href="//www.istanbulfirmarehber.com/antika-koleksiyoncular/antika-koleksiyoncular.html"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.istanbulfirmarehber.com/antika-koleksiyoncular/antika-koleksiyoncular.html"><FONT SIZE="1" FACE="Arial">Koleksiyoncular</FONT></A></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="//www.webmastersitesi.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//www.webmastersitesi.com"><FONT SIZE="1" FACE="Arial">Webmaster Sitesi</a></FONT></TD>
+</tr>
+
+<tr>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                  
+<A href="//www.oyunoyna.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.oyunoyna.com"><FONT SIZE="1" FACE="Arial">oyunoyna.com</FONT></A></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">
+<a href="//www.un.org.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.un.org.tr"><FONT SIZE="1" FACE="Arial">BM Türkiye</FONT></a></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                  
+<A HREF="//www.unicefturk.org"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A HREF="//www.unicefturk.org"><FONT SIZE="1" FACE="Arial">Unicef Türkiye</FONT></a></TD>
+</TR>  
+     
+<TR>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="//www.amazon.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.amazon.com"><FONT SIZE="1" FACE="Arial">Amazon.com</FONT></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<A href="//www.yahoo.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.yahoo.com"><FONT SIZE="1" FACE="Arial">Yahoo.com</FONT></A></TD>
+<TD align=left width=135 bgColor=white  height=20 BORDER=0 >
+<A href="//www.lycos.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.lycos.com"><font face="Arial" size="1">Lycos.com</font></A></TD>
+</TR>
+
+<TR>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<A HREF="//www.un.org"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></FONT>
+<A HREF="//www.un.org"><FONT SIZE="1" FACE="Arial">BM</font></A></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="//www.turkcekuran.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> </FONT>
+<a href="//www.turkcekuran.com"><FONT SIZE="1" FACE="Arial">Türkçe Kuran</FONT></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="https://iyisiteler.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> </FONT>
+<a href="https://iyisiteler.net"><FONT SIZE="1" FACE="Arial">İyi Siteler</FONT></a></TD>
+</TR>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<a href="//tr.msn.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//tr.msn.com"><FONT SIZE="1" FACE="Arial">MSN Türkiye</FONT></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="//www.bedava.org"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.bedava.org"><FONT SIZE="1" FACE="Arial">Bedava Org</FONT></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<A HREF="//www.nevarneyok.com/istanbul.aspx"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A HREF="//www.nevarneyok.com/istanbul.aspx"><FONT SIZE="1" FACE="Arial">Ne Var Ne Yok</FONT></A></TD>
+ </tr>
+
+<tr> 
+<TD align=left width=125 bgColor=white height=20 BORDER=0 >
+<a href="//onedio.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//onedio.com"><FONT SIZE="1" FACE="Arial">onedio</font></a>             
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >           
+<A href="//www.faydalibilgiler.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.faydalibilgiler.com"><FONT SIZE="1" FACE="Arial">Faydalı Bilgiler</FONT></A></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<A href="//www.bilmecelerimiz.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.bilmecelerimiz.com"><FONT SIZE="1" FACE="Arial">Bilmecelerimiz</FONT></A></TD>
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="//www.mobilsoft.com.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//www.mobilsoft.com.tr"><font face="Arial" size="1">Mobilsoft.com</font></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<A href="//www.uzumbaba.com/belgeseller/tarihi_gazeteler/1919-1919-0/tarihi_gazeteler_1919-1919-0.htm"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">    
+<A href="//www.uzumbaba.com/belgeseller/tarihi_gazeteler/1919-1919-0/tarihi_gazeteler_1919-1919-0.htm"><font face="Arial" size="1">Tarihi Gazete Manşetleri</font></A></TD>                 
+<TD align=left width=94 bgColor=white height=20 BORDER=0 >                 
+<a href="//turkiyemix.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                   
+<a href="//turkiyemix.com/"><font face="Arial" size="1">Türkiyemix</FONT></a></TD>                
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="//www.mikrosis.com.tr/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//www.mikrosis.com.tr/"><FONT SIZE="1" FACE="Arial">Mikrosis</a></font>                  
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >         
+<a href="//www.site-ekle.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//www.site-ekle.com/"><font face="Arial" size="1">Site Ekle</font></a></TD> 
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="//www.sirtcantam.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//www.sirtcantam.com"><font face="Arial" size="1">Sırtçantam</font></a></TD>                              
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<a href="//www.trekking.com.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.trekking.com.tr"><font face="Arial" size="1">Trekking</font></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<A href="//www.atlikarincam.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.atlikarincam.com"><font face="Arial" size="1">Atlıkarıncam</font></A></TD>                
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >               
+<a href="//www.dilbert.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//www.dilbert.com"><font face="Arial" size="1">Dilbert</font></a></TD>
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="//www.mackolik.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.mackolik.com"><FONT SIZE="1">Maçkolik</FONT></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<A  HREF="//www.netgazete.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                 	
+<A  HREF="//www.netgazete.com"><FONT SIZE="1" FACE="Arial">Net Gazete</FONT></A></TD>                
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="//www.garfield.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//www.garfield.com"><font face="Arial" size="1">Garfield</font></a></TD>
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<a href="//www.tulumba.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> </FONT>
+<a href="//www.tulumba.com"><font face="Arial" size="1">Tulumba</font></a></TD>                
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">
+<a href="//www.piyalemadra.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.piyalemadra.com"><font face="Arial" size="1">Piyale Madra</font></a></TD>           
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white"> 
+<a href="//www.ataturkinkilaplari.com/it/59"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//www.ataturkinkilaplari.com/it/59"><font face="Arial" size="1">Kuvayı Milliye</font></a></TD>
+</TR>
+
+<TR>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                 
+<a href="//www.iddaa.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.iddaa.com"><FONT SIZE="1" FACE="Arial">İddaa</FONT></a></TD>                
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >            
+<A HREF="//osym.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A HREF="//osym.gov.tr"><FONT SIZE="1" FACE="Arial">ÖSYM</FONT></A></TD>            
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >           
+<a href="//www.arabam.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"></FONT>
+<a href="//www.arabam.com"><font face="Arial" size="1">Arabam.com</font></a></TD>                
+</TR>
+
+<TR>        
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >            
+<a href="//www.galatasaray.li"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.galatasaray.li"><FONT SIZE="1" FACE="Arial">@galatasaray.li</FONT></a></TD>   
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<A HREF="https://intvd.gib.gov.tr/internetvd/template.jsp?page=IVD_MBBS_SORGU_LOGIN_AC"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A HREF="https://intvd.gib.gov.tr/internetvd/template.jsp?page=IVD_MBBS_SORGU_LOGIN_AC"><FONT SIZE="1" FACE="Arial">Borç Sorgula</font></A></TD>                              
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >            
+<a href="//www.sifalibitkim.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">            
+<a href="//www.sifalibitkim.com"><FONT SIZE="1" FACE="Arial">Şifalı Bitkiler</FONT></a></TD>
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                  
+<a href="//www.maxionline.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<a href="//www.maxionline.net"><FONT SIZE="1" FACE="Arial">Maxi Online</FONT></a></TD>                
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >            
+<A href="//www.fazlamesai.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">               
+<A href="//www.fazlamesai.net"><FONT SIZE="1" FACE="Arial">Fazlamesai.net</FONT></A></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                 
+<A href="//www.turk-internet.com/portal/index.php"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                 
+<A href="//www.turk-internet.com/portal/index.php"><FONT SIZE="1" FACE="Arial">Türk İnternet</FONT></A></TD>
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<a href="//tr.wikipedia.org"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<a href="//tr.wikipedia.org"><FONT SIZE="1" FACE="Arial">trwikipedia.org</FONT></a></TD>                
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                
+<A href="//www.pratikprogramci.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                 
+<A href="//www.pratikprogramci.com/"><FONT SIZE="1" FACE="Arial">Programcı</FONT></A></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                 
+<A href="//www.webasis.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<A href="//www.webasis.com"><FONT SIZE="1" FACE="Arial">Webasis</FONT></A></TD>
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<a href="//www.medya.org"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<a href="//www.medya.org"><FONT SIZE="1" FACE="Arial">Tüm Türkiye</FONT></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                
+<A href="//www.benimsayfam.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                
+<A href="//www.benimsayfam.com"><FONT SIZE="1" FACE="Arial">Benim Sayfam</FONT></A></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                
+<A href="//www.hergele.net/c/ana-sayfa/yeni/1"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                 
+<A href="//www.hergele.net/c/ana-sayfa/yeni/1"><FONT SIZE="1" FACE="Arial">Hergele</FONT></A></TD>
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<a href="//www.tekadres.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<a href="//www.tekadres.com"><FONT SIZE="1" FACE="Arial">Tek Adres</FONT></A></TD>              
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                
+<a href="//www.tekstilportal.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.tekstilportal.com"><FONT SIZE="1" FACE="Arial">Tekstilportal.com</FONT></a></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                  
+<a href="//www.gamyun.net/gamyun.php"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                
+<a href="//www.gamyun.net/gamyun.php"><FONT SIZE="1" FACE="Arial">Gamyun</font></a></TD>
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<a href="//www.psikoloji.gen.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<a href="//www.psikoloji.gen.tr"><FONT SIZE="1" FACE="Arial">psikoloji.gen.tr</FONT></a> </TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                  
+<a href="//www.gazeteler.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.gazeteler.com"><FONT SIZE="1" FACE="Arial">Gazeteler.com</FONT></a></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                 
+<a href="//carizmania.tr.gg/LiNK-D-Ue-NYASI.htm"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//carizmania.tr.gg/LiNK-D-Ue-NYASI.htm"><FONT SIZE="1" FACE="Arial">Link Dünyası</FONT></a></TD>
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<a href="//www.trakya-net.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<a href="//www.trakya-net.com"><FONT SIZE="1" FACE="Arial">Trakya-net.com</FONT></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                  
+<A HREF="//www.sepetdolusu.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">	
+<A HREF="//www.sepetdolusu.com"><FONT FACE="Arial" size="1">Sepet Dolusu </font></A></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                  
+<A HREF="//zamazingodergi.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<A HREF="//zamazingodergi.com"><FONT SIZE="1" FACE="Arial">Zamazingo</font></A></TD>
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<A HREF="//www.zirvedekibeyinler.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<A HREF="//www.zirvedekibeyinler.net"><FONT SIZE="1" FACE="Arial">Zirvedeki Beyinler</font></A></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                
+<A  HREF="//www.fullonlinefilmizle2.com/kategori/film-izle/en-iyi-100-film-izle"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A  HREF="//www.fullonlinefilmizle2.com/kategori/film-izle/en-iyi-100-film-izle"><FONT SIZE="1" FACE="Arial">En İyi 100 Film</FONT></A></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                  
+<A HREF="//www.sirala.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                   
+<A HREF="//www.sirala.net"><FONT SIZE="1" FACE="Arial">Sırala.net</font></A></TD>
+</TR>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                  
+<A  HREF="//www.kolaycabul.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A  HREF="//www.kolaycabul.net"><FONT SIZE="1" FACE="Arial">Kolayca  Bul</FONT></A></TD>                 
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<a href="//www.samsunhaber.tc"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.samsunhaber.tc"><FONT SIZE="1" FACE="Arial">Samsun Haber</FONT></a> </TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">
+<a href="//www.bursbul.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.bursbul.com"><FONT SIZE="1" FACE="Arial">Bursbul.com</FONT></a>  </TD>
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                
+<a href="//www.turkmobilya.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<a href="//www.turkmobilya.com"><FONT SIZE="1" FACE="Arial">Türk  Mobilya</FONT></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                  
+<a href="//www.webdakik.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.webdakik.com"><FONT SIZE="1" FACE="Arial">Webdakik.com</FONT></a></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                 
+<a href="//www.kariyer.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<a href="//www.kariyer.net"><FONT SIZE="1" FACE="Arial">Kariyer.net</FONT></a></TD>
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                  
+<a href="//www.dentalturk.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<a href="//www.dentalturk.com"><FONT SIZE="1" FACE="Arial">Dentalturk.com</FONT></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<A HREF="//eskidostbul.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                 
+<A HREF="//eskidostbul.net"><FONT SIZE="1" FACE="Arial">Eski Dost</FONT></A></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                  
+<A HREF="//www.hemenbul.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<A HREF="//www.hemenbul.com"><FONT SIZE="1" FACE="Arial">Hemenbul</FONT></A></TD>
+</tr>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                
+<A HREF="https://sonuc.ysk.gov.tr/module/GirisEkrani.jsf"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                   
+<A HREF="https://sonuc.ysk.gov.tr/module/GirisEkrani.jsf"><FONT SIZE="1" FACE="Arial">Seç Sis</FONT></A></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                
+<A HREF="//www.galatasaray.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                   
+<A HREF="//www.galatasaray.com"><FONT SIZE="1" FACE="Arial">Galatasaray Tv</FONT></A></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                
+<A HREF="//www.tff.org"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                   
+<A HREF="//www.tff.org"><FONT SIZE="1" FACE="Arial">Futbol Federasyonu</FONT></A></TD>              
+</TR>
+              
+<TR>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                  
+<A HREF="//www.osym.gov.tr/belge/1-2270/sinavlar.html"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                                   
+<A HREF="//www.osym.gov.tr/belge/1-2270/sinavlar.html"><FONT SIZE="1" FACE="Arial">Sınavlar</FONT></A></TD>                  
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                 
+<A HREF="https://www.turkiye.gov.tr/meb-sinav-sonuc-sorgulama"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                   
+<A HREF="https://www.turkiye.gov.tr/meb-sinav-sonuc-sorgulama"><FONT SIZE="1" FACE="Arial">MEB Sınav Sonuç</FONT></A></TD>  
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">
+<A HREF="//www.meb.gov.tr/meb_sinavindex.php?KATEGORI=12&B=2"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A HREF="//www.meb.gov.tr/meb_sinavindex.php?KATEGORI=12&B=2"><FONT SIZE="1" FACE="Arial">Ehliyet Sınav Sonuç </FONT></A></TD>
+</TR>
+
+<TR>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                 
+<A HREF="//www.insaat.org"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A HREF="//www.insaat.org"><FONT SIZE="1" FACE="Arial">İnşaat.org</font></A></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">             
+<A HREF="//www.yapitr.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                 
+<A HREF="//www.yapitr.com"><FONT SIZE="1" FACE="Arial">Yapı Tr</font></A></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0>
+<A HREF="//www.insaatrehberi.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                                   
+<A HREF="//www.insaatrehberi.net"><FONT SIZE="1" FACE="Arial">İnşaat Rehberi</font></A></TD>
+</TR>
+
+<TR>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >    
+<A HREF="//www.birimfiyat.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                     
+<A HREF="//www.birimfiyat.com"><font size="1" FACE="Arial">Birimfiyat.com</font></A></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                  
+<A HREF="//www.birimfiyat.net"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                                    
+<A HREF="//www.birimfiyat.net"><FONT SIZE="1" FACE="Arial">Birimfiyat.net</FONT></A></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0>                  
+<A HREF="//www.santiyeci.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                                 
+<A HREF="//www.santiyeci.com"><FONT SIZE="1" FACE="Arial">Şantiyeci.com</FONT></A> </TD>                              
+</TR>
+
+<TR>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<A HREF="//www.sahadan.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A HREF="//www.sahadan.com"><FONT SIZE="1" FACE="Arial">Sahadan.com</FONT></A></TD>
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">
+<A HREF="//www.add.org.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A HREF="//www.add.org.tr"><FONT SIZE="1" FACE="Arial">Add Türkiye</FONT></A></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >
+<A  HREF="//www.canakkalesehitleri.org"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A  HREF="//www.canakkalesehitleri.org"><FONT SIZE="1" FACE="Arial">Ç.Kale Şehitleri</FONT></A></TD>
+</TR>
+
+<TR>
+<TD align=left width=135 bgColor=white height=20 BORDER=0>                                    
+<a href="//www.ememleketim.com/default.asp"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//memleketim.gov.tr"><font face="Arial" size="1">Memleketim</font></a></TD> 
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                                         
+<a href="//www.onedekor.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//www.onedekor.com"><font size="1">onedekor.com</font></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                  
+<a href="//www.herbalife.com.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<a href="//www.herbalife.com.tr"><FONT SIZE="1" FACE="Arial">Herbalife</FONT></a></TD>
+</TR>
+        
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                                    
+<a href="//www.Blogspot.com.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//www.Blogspot.com.tr"><font face="Arial" size="1">Blogspot</font></a></TD> 
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                                         
+<a href="https://www.wikipedia.org/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="https://www.wikipedia.org/"><font size="1">Wikipedia</font></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                  
+<a href="https://eksisozluk.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<a href="https://eksisozluk.com/"><FONT SIZE="1" FACE="Arial">Ekşi Sözlük</FONT></a></TD>
+</TR>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                                    
+<a href="https://www.sahibinden.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="https://www.sahibinden.com/"><font face="Arial" size="1">Sahibinden.com</font></a></TD> 
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                                         
+<a href="//www.gittigidiyor.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//www.gittigidiyor.com/"><font size="1">Gittigidiyor.com</font></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                  
+<a href="//www.hepsiburada.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<a href="//www.hepsiburada.com"><FONT SIZE="1" FACE="Arial">Hepsiburada.com</FONT></a></TD>
+</TR>
+
+<tr>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                                    
+<a href="//www.faydalibilgiler.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//www.faydalibilgiler.com"><font face="Arial" size="1">Faydalı Bilgiler</font></a></TD> 
+<TD align=left width=135 height=20 BORDER=0  BGCOLOR="white">                                         
+<a href="//www.turkiye.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<a href="//www.turkiye.gov.tr"><font size="1">@-Türkiye</font></a></TD>
+<TD align=left width=135 bgColor=white height=20 BORDER=0 >                  
+<a href="//www.kulturportali.gov.tr"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">                  
+<a href="//www.kulturportali.gov.tr"><FONT SIZE="1" FACE="Arial">Kültür Portalı</FONT></a></TD>
+</TR>
+<tr>
+<TD align=center width=460 bgColor=white height=75 BORDER=2  valign="top" colspan="3" rowspan="2" BORDER=0 bordercolor="#336699" >          
+<center>
+<a title="Nazım Hikmet Ran" href="//www.NazimHikmet.info">
+<img border="1" WIDTH="460" HEIGHT="75" src="//www.nazimhikmet.info/images/nazim.hikmet.banner.gif"></a>
+ </center>              
+</body>
+</html>
+</tr>
+</TBODY></TABLE></BODY></TBODY></TABLE>
+	
+<TD Valign=top width=220 bgColor=white BORDERCOLOR="white" ALIGN="left"> 
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse" BORDERCOLOR="#111111" WIDTH="220">
+<TR>
+<TD ALIGN="center" Valign=middle  widht=220 height=20 bgcolor=red>
+<b><font face=Verdana  size=1 weight=bold color="white">Cumhuriyetimizin 100.Yılına: </font></b></TD></TR>
+<TR>
+<TD ALIGN="center" Valign=middle  widht=220 height=20 bgcolor="red">
+<script language="JavaScript1.2">
+function setcountdown(theyear,themonth,theday){  
+yr=theyear;mo=themonth;da=theday; 
+} 
+//////////CONFIGURE THE COUNTDOWN SCRIPT HERE////////////////// 
+//STEP 1: Configure the countdown-to date, in the format year, month, day: 
+setcountdown(2023,10,29) 
+
+//STEP 2: Change the two text below to reflect the occasion, and message to display on that occasion, respectively 
+var occasion=" Kaldı" 
+var message_on_occasion="" 
+
+//STEP 3: Configure the below 5 variables to set the width, height, background color, and text style of the countdown area 
+var countdownwidth='220px' 
+var countdownheight='30px' 
+var countdownbgcolor='transparent'
+var opentags='<b><font face=Verdana  size=1 color=white weight=bold><font face=Verdana  size=1 color=white weight=bold>' 
+
+var closetags='</small></font></b>'
+
+//////////DO NOT EDIT PASS THIS LINE////////////////// 
+
+var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec") 
+var crosscount='' 
+
+function start_countdown(){ 
+if (document.layers) 
+document.countdownnsmain.visibility="show" 
+else if (document.all||document.getElementById) 
+crosscount=document.getElementById&&!document.all? document.getElementById("countdownie") : countdownie 
+countdown() 
+} 
+
+if (document.all||document.getElementById) 
+document.write('<span id="countdownie" style="width:'+countdownwidth+'; background-color:'+countdownbgcolor+'"></span>') 
+
+window.onload=start_countdown 
+
+
+function countdown(){ 
+var today=new Date() 
+var todayy=today.getYear() 
+if (todayy < 1000) 
+todayy+=1900 
+var todaym=today.getMonth() 
+var todayd=today.getDate() 
+var todayh=today.getHours() 
+var todaymin=today.getMinutes() 
+var todaysec=today.getSeconds() 
+var todaystring=montharray[todaym]+" "+todayd+", "+todayy+" "+todayh+":"+todaymin+":"+todaysec 
+futurestring=montharray[mo-1]+" "+da+", "+yr 
+dd=Date.parse(futurestring)-Date.parse(todaystring) 
+dday=Math.floor(dd/(60*60*1000*24)*1) 
+dhour=Math.floor((dd%(60*60*1000*24))/(60*60*1000)*1) 
+dmin=Math.floor(((dd%(60*60*1000*24))%(60*60*1000) )/(60*1000)*1) 
+dsec=Math.floor((((dd%(60*60*1000*24))%(60*60*1000 ))%(60*1000))/1000*1) 
+//if on day of occasion 
+if(dday<=0&&dhour<=0&&dmin<=0&&dsec<=1&&todayd==da ){ 
+if (document.layers){ 
+document.countdownnsmain.document.countdownnssub.document.write(opentags+message_on_occasion+closetags) 
+document.countdownnsmain.document.countdownnssub.document.close() 
+} 
+else if (document.all||document.getElementById) 
+crosscount.innerHTML=opentags+message_on_occasion+ closetags 
+return 
+} 
+//if passed day of occasion 
+else if (dday<=-1){ 
+if (document.layers){ 
+document.countdownnsmain.document.countdownnssub.document.write(opentags+"Kaldı"+closetags) 
+document.countdownnsmain.document.countdownnssub.document.close() 
+} 
+else if (document.all||document.getElementById) 
+crosscount.innerHTML=opentags+" "+closetags 
+return 
+} 
+//else, if not yet 
+else{ 
+if (document.layers){ 
+document.countdownnsmain.document.countdownnssub.document.write(opentags+dday+ " gün,"+dhour+"saat, "+dmin+" dakika,"+dsec+"sn"+occasion+closetags) 
+document.countdownnsmain.document.countdownnssub.document.close() 
+} 
+else if (document.all||document.getElementById) 
+crosscount.innerHTML=opentags+dday+ " <b>Gün,</b> " +dhour+ " Saat, " +dmin+ " Dk, " +dsec+ "Sn" +occasion+closetags
+} 
+setTimeout("countdown()",1000) 
+} 
+</script>
+</TD>
+</TR>
+
+ <TR>
+<TD ALIGN="center" Valign=middle widht=120 height=30 bgcolor=white bordercolorlight="#0099FF" bordercolordark="#000080" 
+    bordercolor="#000080" style="border-left-style: solid; border-left-width: 2; border-right-style: solid; border-right-width: 2; 
+    border-top-style: solid; border-top-width: 2; border-bottom-style: solid; border-bottom-width: 2; padding: 1">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'tr', includedLanguages: 'de,en,es,fr,it,ru'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</TD>
+</TR>
+
+<TR>
+<TD ALIGN="center" Valign=middle widht=120 height=30 bordercolorlight="#0099FF" bordercolordark="#000080" 
+    bordercolor="#000080" style="border-left-style: solid; border-left-width: 2; border-right-style: solid; border-right-width: 2; 
+    border-top-style: solid; border-top-width: 2; border-bottom-style: solid; border-bottom-width: 2; padding: 1">
+<script language="javascript" src="//is.sitekodlari.com/paylas6.js"></script>
+<td>
+</tr>
+<TR>
+<TD ALIGN="center" Valign=middle bordercolorlight="#0099FF" bordercolordark="#000080" bordercolor="#000080" style="border-left-style: solid; border-left-width: 2; border-right-style: solid; border-right-width: 2; 
+    bordercolor="#000080" border-top-style: solid; border-top-width: 2; border-bottom-style: solid; border-bottom-width: 2; padding: 2">
+<iframe style='width:220px;height:185px;overflow:hidden;border:none;' src='//www.cumhuriyet.com.tr/widget/slider/' scrolling='no'></iframe></TD>
+</TR>
+
+<TR>
+<TD ALIGN="center" Valign=middle bordercolorlight="#0099FF" bordercolordark="#000080" 
+    bordercolor="#000080" style="border-left-style: solid; border-left-width: 2; border-right-style: solid; border-right-width: 2; 
+    border-top-style: solid; border-top-width: 2; border-bottom-style: solid; border-bottom-width: 2; padding: 2">
+<iframe style='width:200px;height:185px;overflow:hidden;border:none;' src='//www.cumhuriyet.com.tr/widget/slider/9' scrolling='no'></iframe>
+</TR>
+
+
+<TBODY>
+
+<tr>
+<td bgcolor="white" width="220" height="90"  bordercolorlight="#0099FF" bordercolordark="#000080" 
+    bordercolor="#000080" style="border-left-style: solid; border-left-width: 1; border-right-style: solid; border-right-width: 2; 
+    border-top-style: solid; border-top-width: 2; border-bottom-style: solid; border-bottom-width: 2; padding: 2">
+<!--WEBBOT BOT="HTMLMarkup" STARTSPAN -->  
+<body bgcolor="white"  style="margin:0;padding:0;border:1; BORDERCOLOR:DARKBLUE>
+<div style="border:none;background-color:white;height:85px;width:210px;font-family:Arial, Helvetica, sans-serif; font-size:8px; padding:5px;color:#000080;">
+<div  style="border:medium none;background-image:url('zargan-logo-tr.png');background-repeat:no-repeat;background-position:top;width:60px;height:60px;cursor:pointer;float:left; margin-left:3px; margin-right:0; margin-top:0; margin-bottom:0" title="Zargan İngilizce Sözlük" onclick="window.open('//www.zargan.com');"></div>
+<div  style="border:none;padding:0 0 0 70px;font-weight:bold;font-size:8px; letter-spacing:-0.05em; padding-bottom:3px;margin-bottom:5px;border:none white;">
+<a href="//www.zargan.com" style="text-decoration: none; color:red; border:medium 1;" title="İngilizce Türkçe Sözlük" >İngilizce-Türkçe Sözlük</a></div>
+<form action="//www.zargan.com/sozluk.asp" method="get" style="margin:0; padding:0;" >
+<div style="border:none;text-align:center;">
+  <input type="text" id="Sozcuk" name="Sozcuk" style="width:100px;background-color:white;height:auto;padding:2px;font-size:10pt;font-family: 'MS Sans Serif', Geneva, sans-serif;color:#000080;margin:0" size="18" /><input type="hidden" name="kutu" id="kutu" value="1" /> 
+  <input type="submit" value="Çevir" style="width:auto; height:20px; border-style:solid; border-width:1px; font-family: Arial; color: white; weight=bold; font-size: 10px; background-color: red"/></div>
+</form>
+</div>
+</body> 
+<!--WEBBOT BOT="HTMLMarkup" ENDSPAN -->
+</TD>
+</tr>
+	  
+<TR>
+<td bgcolor="white" width="220" height="330"  bordercolorlight="#0099FF" bordercolordark="#000080" 
+    bordercolor="#000080" style="border-left-style: solid; border-left-width: 1; border-right-style: solid; border-right-width: 2; 
+    border-top-style: solid; border-top-width: 2; border-bottom-style: solid; border-bottom-width: 2; padding: 2">
+<iframe src="//webkodu.com/sitene-ekle/gunluk-burclar/wk-sitene-gunluk-burclar-ekle.html" 
+width=220 height=330 marginwidth=20 marginheight=0 hspace=0 vspace=0 scrolling=no frameborder=0></iframe>
+
+</TD>
+</TR>
+
+<TR>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.sozcu.com.tr/kategori/yazarlar/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.sozcu.com.tr/kategori/yazarlar/"><font face="Arial" size="1">Sözcü Yazarları</font></A></td>
+</TR>
+
+<TR>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.cumhuriyet.com.tr/BugununKoseleri"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<font face="Arial" size="1">Cumhuriyet Yazarları</font></A></td>
+</TR>
+  
+<TR>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.ilk-kursun.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.ilk-kursun.com/"><font face="Arial" size="1">İlk Kurşun Gazetesi</font></A></td>
+</TR>
+
+<TR>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.guncelmeydan.com/pano/index.html"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.guncelmeydan.com/pano/index.html"><font face="Arial" size="1">Güncel Meydan</font></A></td>
+</TR>
+
+<TR>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.yenicaggazetesi.com.tr/yazarlar.htm"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.yenicaggazetesi.com.tr/yazarlar.htm"><font face="Arial" size="1">Yeniçağ Yazarları</font></A></td>
+</TR>
+
+<TR>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.ulusalbakis.com/konu/site-yazarlari"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.ulusalbakis.com/konu/site-yazarlari"><font face="Arial" size="1">Ulusal Bakış Yazarları</font></A></td>
+</TR>
+
+<TR>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.yurtgazetesi.com.tr/yazarlar/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<font face="Arial" size="1">Yurt Gazetesi Yazarları</font></A></td>
+</TR>
+
+<TR>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.odatv.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.odatv.com/"><font face="Arial" size="1">Oda Tv</font></A></td>
+</tr>
+
+<TR>
+<TD align=left width=220 bgColor=white height=20>                
+<A href="//haberguncel.blogspot.com.tr/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//haberguncel.blogspot.com.tr/"><font face="Arial" size="1">Haber Güncel</font></A></td>
+</tr>
+
+<tr>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.acikistihbarat.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.acikistihbarat.com/"><font face="Arial" size="1">Açık İstihbarat</font></A></td>
+</tr> 
+ 
+<tr> 
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.birgun.net/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.birgun.net/"><font face="Arial" size="1">Birgün Gazetesi</font></A></td>
+</tr>  
+
+<tr>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//haber.sol.org.tr/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//haber.sol.org.tr/"><font face="Arial" size="1">Sol Gazetesi</font></A></td>
+</tr>	
+
+<tr> 
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.gercekgundem.com"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.gercekgundem.com"><font face="Arial" size="1">Gerçek Gündem</font></A></td>
+</tr>
+ 
+<tr>  
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.guncelmeydan.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.guncelmeydan.com/"><font face="Arial" size="1">Güncel Meydan</font></A></td>
+</tr> 
+
+<tr>  
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.yurdumacanfeda.com/tr/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.yurdumacanfeda.com/tr/"><font face="Arial" size="1">Yurduma Can Feda</font></A></td>
+</tr>
+
+<tr>  
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.kemalistdevrim.org/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.kemalistdevrim.org/"><font face="Arial" size="1">Kemalist Devrim</font></A></td>
+</tr> 
+
+<TR>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.turkcebilgi.com/harita/izmir"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.turkcebilgi.com/harita/izmir"><font face="Arial" size="1">İzmir Haritası</font></A></td>
+</TR>
+
+<TR>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.turkiyeharitasi.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15"> 
+<A href="//www.turkiyeharitasi.com/"><font face="Arial" size="1">Türkiye Haritası</font></A></td>
+</TR>
+ 
+<TR>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.freetranslation.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.freetranslation.com/"><font face="Arial" size="1">Dilden Dile Çeviri</font></A></td>
+</TR>
+
+<tr>
+<TD align=left width=220 bgColor=white height=20>
+<A href="https://hat-sorgulama.btk.gov.tr/sorgu.php"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="https://hat-sorgulama.btk.gov.tr/sorgu.php"><font face="Arial" size="1">GSM Hat Sorgula</font></A></td>
+</tr>
+
+<tr>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.turkuler.com/sozler/ta.asp"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.turkuler.com/sozler/ta.asp"><font face="Arial" size="1">Türkü Sözleri</font></A></td>
+</tr>
+
+<tr>
+<TD align=left width=220 bgColor=white height=20>
+<A href="https://www.turkudostlari.net/turku_listesi.asp?x=3"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="https://www.turkudostlari.net/turku_listesi.asp?x=3"><font face="Arial" size="1">Türkü Hikayeleri</font></A></td>
+</tr>
+
+<tr>
+<TD align=left width=220 bgColor=white height=20>
+<A href="//www.turkuyurdu.com/"><IMG BORDER="0" SRC="win.gif" WIDTH="15" HEIGHT="15">
+<A href="//www.turkuyurdu.com/"><font face="Arial" size="1">Türkü Yurdu</font></A></td>
+</tr>
+
+<tr>
+<TD align=left width=220 bgColor=white height=20>
+<A href="https://www.youtube.com/channel/UCwabVTKBJru-0w3WV7t_x-g"><IMG BORDER="0" SRC="youtube_icon.png" WIDTH="15" HEIGHT="15"> 
+<A href="https://www.youtube.com/channel/UCwabVTKBJru-0w3WV7t_x-g"><font face="Arial" size="1">Youtube Kanalımız</font></A></td>
+</tr> 
+  
+<tr>
+<TD align=left valign=middle width=220 bgColor=white HEIGHT="20">
+<!-- Facebook Badge START -->
+ <a href="https://www.facebook.com/TurkuluYureklerYA/" target="_TOP" title="Türkülü Yürekler">
+ <img src="facebook_icon.png" width="15" height="15" style="border: 0px;" /></a>
+ <a href="https://www.facebook.com/TurkuluYureklerYA/"  style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 10px; font-variant: normal; font-style: normal; font-weight: bold; color: #3B5998; text-decoration: none;" title="Facebook Sayfamız">Facebook Sayfamız</a>
+ <!-- Facebook Badge END -->
+</td>
+</tr>
+
+<tr>
+<TD align=left valign=middle width=220 bgColor=white HEIGHT="20">
+<a href="//twitter.com/TC_Turku_Bey" class="twitter-follow-button" data-show-count="false" data-lang="tr" data-dnt="true">Takip et: @yildirimalkan</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></td></tr>
+ 
+</TBODY></table>
+</TBODY></TABLE>
+</BODY></TBODY>
+<html>
+<style>
+
+.drapeeffect{
+  background: #0099FF; /* button background */
+  color: white; /* button text color */
+  outline: none;
+  border-width: 0;
+  padding: 8px 10px; 
+  font-weight: bold;
+  font-size: 12.2795px; /* font size */
+  text-transform: none;
+  line-height: 1,5;
+  position: relative;
+	display: inline-block;
+  cursor: pointer;
+	text-decoration: none; /* remove underline if using A instead of BUTTON tag */
+  overflow: hidden;
+}
+
+.drapeeffect:after{
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 0 0 30% 30%/50%;
+  background: rgba(255,255,255,.2); /* white background with high transparency */
+  left: 0;
+  top: -100%;
+  transition: all .5s;
+}
+
+.drapeeffect:hover:after{
+  top: 0;
+  border-radius: 0;
+  transition: top .5s, border-radius .5s .5s;
+}
+
+/* //// Drape from Center effect //// */
+
+.drapecenter:after{
+  border-radius: 50%;
+}
+
+/* //// Drape from Left effect //// */
+
+.drapeleft:after{
+  top: 0;
+  left: -100%;
+  border-radius: 0 20% 20% 0/80%;
+}
+
+.drapeleft:hover:after{
+  left: 0;
+  transition: left .5s, border-radius .1s .5s;
+}
+
+/* //// Drape from Right effect //// */
+
+.draperight:after{
+  top: 0;
+  left: 100%;
+  border-radius: 20% 0 0 20%/80%;
+}
+
+.draperight:hover:after{
+  left: 0;
+  transition: left .5s, border-radius .1s .5s;
+}
+
+</style>
+
+<a href=index.html target=_blank><button class="drapeeffect">Ana Sayfa</button><a href=indexi.html target=_blank></A>
+<a href=hakkimizda.html target=_blank><button class="drapeeffect draperight">Hakkımızda</button></a>
+<a href="iletisimformu.html"><button class="drapeeffect draperight">İletişim</button></a>
+<a href=https://www.youtube.com/channel/UCwabVTKBJru-0w3WV7t_x-g target=_blank><button class="drapeeffect drapecenter">Youtube Abone Ol</button></a>
+<a href=https://www.facebook.com/TurkuluYureklerYY/ target=_blank><button class="drapeeffect drapeleft">Facebook Beğen</button></a>
+<a href="https://twitter.com/TC_Turku_Bey" target=_blank><button class="drapeeffect">Twitter Takip Et</button></a>
+<a href=https://www.turkiye.gov.tr/ target=_blank><button class="drapeeffect draperight">E - Türkiye</button></a>
+<a href=https://e-okul.meb.gov.tr/ target=_blank><button class="drapeeffect draperight">E - Okul</button></a>
+<a href=//postakodu.ptt.gov.tr/ target=_blank><button class="drapeeffect draperight">Posta Kodları</button></a>
+<a href=//www.ttrehber.turktelekom.com.tr/trk-web/alankodlari.html target=_blank><button class="drapeeffect draperight">Telefon Kodları</button></a>
+<a href=//www.bddk.org.tr/WebSitesi/default.aspx target=_blank><button class="drapeeffect draperight">B D D K</button></a>
+<a href=//www.spk.gov.tr/ target=_blank><button class="drapeeffect draperight">S P K</button></a>
+<a href=//www.altinborsasi.gen.tr/ target=_blank><button class="drapeeffect draperight">Altın  Borsası</button></a>
+<a href=//www.doviz.com/ target=_blank><button class="drapeeffect draperight">Döviz</button></a>
+<a href=sitemap.html target=_blank><button class="drapeeffect draperight">Site Haritası</button></a>
+</html>
+<center>
+<FONT face=Verdana size=1 COLOR="navyblue"> 
+<SCRIPT language=javascript1.2>
+document.write("Sitemizin Son Güncelleme Tarihi: "+document.lastModified);
+</SCRIPT>
+</center>
+<center>Sitemiz 1368x768 Ekran Çözünürlüğü' ne göre tasarlanmıştır</center>
+<FONT face=Verdana size=1><CENTER><A class=xamarinlink 
+href="index.html">
+<SPAN style="background-color: #FFFFFF"><FONT face=Verdana
+size=1 color=navyblue">Site Tasarımı ©2017 Yıldırım ALKAN. Tüm Hakları Saklıdır.</font></SPAN></A></CENTER>
+<font color="navyblue">
+<SCRIPT LANGUAGE="JavaScript">
+// create a new Date object then get the current time
+var start = new Date();
+var startsec = start.getTime();
+
+// run a loop counting up to 400,000
+var num = 0;
+for( var i = 0; i < 400000; i++ )
+{
+  num++;
+}
+
+var stop  = new Date();
+var stopsec = stop.getTime();
+
+var loadtime = ( stopsec - startsec ) / 1000;
+
+            </script> 
+<center>
+<SCRIPT>
+ document.write("Sayfa " +loadtime+ " Dakikada Yüklendi ");
+</SCRIPT>
+ </center>
+
+</td></tr></TABLE></center></head></html>
